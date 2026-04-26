@@ -10,4 +10,4 @@ a partir dos dados históricos da B3 (2015–2025), com 919 vértices e 418.757 
 ## Dados
 
 Os dados processados estão disponíveis no Google Drive: 
-[https://drive.google.com/drive/folders/1hl2oRDWSet3amAiH90mK0hYVMCEqAnco?usp=sharing]    
+[Google Drive](https://drive.google.com/drive/folders/1hl2oRDWSet3amAiH90mK0hYVMCEqAnco?usp=sharing)  
