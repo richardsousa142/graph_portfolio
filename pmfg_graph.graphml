@@ -1,0 +1,6061 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="AAGR11"/>
+<node id="BAUH4"/>
+<node id="BCRI11"/>
+<node id="BCWV39"/>
+<node id="BEWA39"/>
+<node id="BLAU3"/>
+<node id="BNBR3"/>
+<node id="BSOC39"/>
+<node id="BTIP39"/>
+<node id="CGAS3"/>
+<node id="DXCO3"/>
+<node id="ENMT3"/>
+<node id="EQMA3B"/>
+<node id="ESTR4"/>
+<node id="FDES11"/>
+<node id="FZDA11"/>
+<node id="GRUL11"/>
+<node id="HCRI11"/>
+<node id="HETA4"/>
+<node id="HGAG11"/>
+<node id="JSAF11"/>
+<node id="MERC4"/>
+<node id="NORD3"/>
+<node id="PATI4"/>
+<node id="PEAB3"/>
+<node id="PRSN11"/>
+<node id="PSVM11"/>
+<node id="RBDS11"/>
+<node id="SAPR11"/>
+<node id="SAPR3"/>
+<node id="SOND5"/>
+<node id="ZIFI11"/>
+<node id="AALR3"/>
+<node id="RURA11"/>
+<node id="AAZQ11"/>
+<node id="ATSA11"/>
+<node id="BALM3"/>
+<node id="BALM4"/>
+<node id="BCLO39"/>
+<node id="BDRI39"/>
+<node id="BEFG39"/>
+<node id="BEGU39"/>
+<node id="BEWH39"/>
+<node id="BGOV39"/>
+<node id="BINC11"/>
+<node id="BIWF39"/>
+<node id="BIYT39"/>
+<node id="BODB11"/>
+<node id="BXTC39"/>
+<node id="CACR11"/>
+<node id="CDII11"/>
+<node id="CPTI11"/>
+<node id="CRPG6"/>
+<node id="HFOF11"/>
+<node id="HGCR11"/>
+<node id="HSML11"/>
+<node id="HTMX11"/>
+<node id="IFRA11"/>
+<node id="INLG11"/>
+<node id="ITIP11"/>
+<node id="KCRE11"/>
+<node id="KEVE11"/>
+<node id="KISU11"/>
+<node id="KNCR11"/>
+<node id="KNHF11"/>
+<node id="MANA11"/>
+<node id="MAPT4"/>
+<node id="MXRF11"/>
+<node id="OGIN11"/>
+<node id="OUJP11"/>
+<node id="PATC11"/>
+<node id="PLCA11"/>
+<node id="PMLL11"/>
+<node id="PORD11"/>
+<node id="RBHG11"/>
+<node id="RELG11"/>
+<node id="RZAG11"/>
+<node id="RZTR11"/>
+<node id="TPIS3"/>
+<node id="VRTA11"/>
+<node id="VTLT11"/>
+<node id="VVRI11"/>
+<node id="XFIX11"/>
+<node id="XPCA11"/>
+<node id="XPLG11"/>
+<node id="ABCB4"/>
+<node id="AGRI11"/>
+<node id="ALOS3"/>
+<node id="AXIA3"/>
+<node id="B3BR11"/>
+<node id="BBAS3"/>
+<node id="BBDC3"/>
+<node id="BBDC4"/>
+<node id="BBOV11"/>
+<node id="BBSD11"/>
+<node id="BCIC11"/>
+<node id="BDEF11"/>
+<node id="BDOM11"/>
+<node id="BMGB4"/>
+<node id="BMMT11"/>
+<node id="BOVA11"/>
+<node id="BOVB11"/>
+<node id="BOVS11"/>
+<node id="BOVV11"/>
+<node id="BOVX11"/>
+<node id="BRAX11"/>
+<node id="BREW11"/>
+<node id="BRSR6"/>
+<node id="CEAB3"/>
+<node id="CMIG4"/>
+<node id="COGN3"/>
+<node id="CVCB3"/>
+<node id="CYRE3"/>
+<node id="DIVD11"/>
+<node id="DIVO11"/>
+<node id="ECOO11"/>
+<node id="ECOR3"/>
+<node id="ELAS11"/>
+<node id="ENGI11"/>
+<node id="ESGB11"/>
+<node id="EVEN3"/>
+<node id="EZTC3"/>
+<node id="FIND11"/>
+<node id="GOVE11"/>
+<node id="HIGH11"/>
+<node id="IBOB11"/>
+<node id="ISUS11"/>
+<node id="ITSA3"/>
+<node id="ITSA4"/>
+<node id="ITUB3"/>
+<node id="ITUB4"/>
+<node id="LOGG3"/>
+<node id="LVOL11"/>
+<node id="MDNE3"/>
+<node id="MOTV3"/>
+<node id="MOVI3"/>
+<node id="MRVE3"/>
+<node id="MTRE3"/>
+<node id="MYPK3"/>
+<node id="NDIV11"/>
+<node id="NEOE3"/>
+<node id="NSDV11"/>
+<node id="PIBB11"/>
+<node id="RAIL3"/>
+<node id="RAPT4"/>
+<node id="SANB11"/>
+<node id="SANB3"/>
+<node id="SBSP3"/>
+<node id="SCVB11"/>
+<node id="SMAB11"/>
+<node id="SMAC11"/>
+<node id="SMAL11"/>
+<node id="SPVT11"/>
+<node id="TGMA3"/>
+<node id="TRIG11"/>
+<node id="VIVA3"/>
+<node id="XBOV11"/>
+<node id="ABCP11"/>
+<node id="CTXT11"/>
+<node id="ABEV3"/>
+<node id="BXPO11"/>
+<node id="ABGD39"/>
+<node id="AURA33"/>
+<node id="BEGD39"/>
+<node id="BFAV39"/>
+<node id="BIAU39"/>
+<node id="BMTU39"/>
+<node id="BNDX11"/>
+<node id="BSLV39"/>
+<node id="BSUS39"/>
+<node id="BUSM39"/>
+<node id="COCE3"/>
+<node id="GDXB39"/>
+<node id="GOLD11"/>
+<node id="RCFF11"/>
+<node id="REIT11"/>
+<node id="SIVR39"/>
+<node id="USDB11"/>
+<node id="USIM6"/>
+<node id="ACWI11"/>
+<node id="ALUG11"/>
+<node id="BAAX39"/>
+<node id="BACW39"/>
+<node id="BBUG39"/>
+<node id="BDVD39"/>
+<node id="BDVY39"/>
+<node id="BEDC39"/>
+<node id="BEEM39"/>
+<node id="BEFA39"/>
+<node id="BEFV39"/>
+<node id="BEGE39"/>
+<node id="BEMV39"/>
+<node id="BEWC39"/>
+<node id="BEWG39"/>
+<node id="BEWJ39"/>
+<node id="BEWL39"/>
+<node id="BEWQ39"/>
+<node id="BEWT39"/>
+<node id="BEWU39"/>
+<node id="BEWW39"/>
+<node id="BEWY39"/>
+<node id="BEZU39"/>
+<node id="BFNX39"/>
+<node id="BGNO39"/>
+<node id="BGWH39"/>
+<node id="BHER39"/>
+<node id="BIBB39"/>
+<node id="BIEF39"/>
+<node id="BIEM39"/>
+<node id="BIEU39"/>
+<node id="BIEV39"/>
+<node id="BIGF39"/>
+<node id="BIJH39"/>
+<node id="BIJR39"/>
+<node id="BITO39"/>
+<node id="BIVB39"/>
+<node id="BIVE39"/>
+<node id="BIVW39"/>
+<node id="BIWM39"/>
+<node id="BIYF39"/>
+<node id="BIYW39"/>
+<node id="BLBT39"/>
+<node id="BNDA39"/>
+<node id="BOEF39"/>
+<node id="BOTZ39"/>
+<node id="BPVE39"/>
+<node id="BQUA39"/>
+<node id="BQYL39"/>
+<node id="BURT39"/>
+<node id="BUSR39"/>
+<node id="BVLU39"/>
+<node id="FOOD11"/>
+<node id="GENB11"/>
+<node id="HTEK11"/>
+<node id="IVVB11"/>
+<node id="IWMI11"/>
+<node id="JOGO11"/>
+<node id="MILL11"/>
+<node id="NASD11"/>
+<node id="PEVC11"/>
+<node id="QQQI11"/>
+<node id="QQQQ11"/>
+<node id="REVE11"/>
+<node id="SPXB11"/>
+<node id="SPXI11"/>
+<node id="SPXR11"/>
+<node id="SPYI11"/>
+<node id="SVAL11"/>
+<node id="TECK11"/>
+<node id="USAL11"/>
+<node id="USTK11"/>
+<node id="UTEC11"/>
+<node id="WRLD11"/>
+<node id="XINA11"/>
+<node id="YDRO11"/>
+<node id="AERI3"/>
+<node id="AFHI11"/>
+<node id="MCRE11"/>
+<node id="AFLT3"/>
+<node id="GPAR3"/>
+<node id="KDOL11"/>
+<node id="NEXG11"/>
+<node id="SNAG11"/>
+<node id="ALPA4"/>
+<node id="ANIM3"/>
+<node id="ARML3"/>
+<node id="ASAI3"/>
+<node id="AXIA6"/>
+<node id="AZZA3"/>
+<node id="B3SA3"/>
+<node id="BEEF3"/>
+<node id="BEWZ39"/>
+<node id="BILF39"/>
+<node id="BMOB3"/>
+<node id="BPAC11"/>
+<node id="BPAC3"/>
+<node id="BPAC5"/>
+<node id="CAML3"/>
+<node id="CMDB11"/>
+<node id="CPLE3"/>
+<node id="CRPG3"/>
+<node id="CSAN3"/>
+<node id="CSED3"/>
+<node id="CSNA3"/>
+<node id="CURY3"/>
+<node id="EQTL3"/>
+<node id="FLRY3"/>
+<node id="FRAS3"/>
+<node id="GGPS3"/>
+<node id="GMAT3"/>
+<node id="GUAR3"/>
+<node id="HBOR3"/>
+<node id="IGTI11"/>
+<node id="INBR32"/>
+<node id="INTB3"/>
+<node id="ISAE4"/>
+<node id="JALL3"/>
+<node id="JHSF3"/>
+<node id="JSLG3"/>
+<node id="KLBN11"/>
+<node id="KLBN4"/>
+<node id="LAVV3"/>
+<node id="LJQQ3"/>
+<node id="LREN3"/>
+<node id="LWSA3"/>
+<node id="MATB11"/>
+<node id="MATD3"/>
+<node id="MILS3"/>
+<node id="MLAS3"/>
+<node id="MRFG3"/>
+<node id="MULT3"/>
+<node id="NBOV11"/>
+<node id="ORVR3"/>
+<node id="PETZ3"/>
+<node id="PGMN3"/>
+<node id="PLPL3"/>
+<node id="PNVL3"/>
+<node id="POSI3"/>
+<node id="PTBL3"/>
+<node id="QUAL3"/>
+<node id="RAIZ4"/>
+<node id="RANI3"/>
+<node id="RDOR3"/>
+<node id="RENT3"/>
+<node id="SANB4"/>
+<node id="SBFG3"/>
+<node id="SEER3"/>
+<node id="SIMH3"/>
+<node id="SMFT3"/>
+<node id="SMTO3"/>
+<node id="SPUB11"/>
+<node id="TFCO4"/>
+<node id="TIRB11"/>
+<node id="TOTS3"/>
+<node id="TRIS3"/>
+<node id="TTEN3"/>
+<node id="TUPY3"/>
+<node id="UGPA3"/>
+<node id="VAMO3"/>
+<node id="VBBR3"/>
+<node id="VULC3"/>
+<node id="YDUQ3"/>
+<node id="AGRO3"/>
+<node id="TXRX3"/>
+<node id="AGRX11"/>
+<node id="AHEB3"/>
+<node id="BBRC11"/>
+<node id="BDIV11"/>
+<node id="BGIP3"/>
+<node id="CEDO3"/>
+<node id="DCRA11"/>
+<node id="DTCY3"/>
+<node id="FLCR11"/>
+<node id="FSPE11"/>
+<node id="PMIS11"/>
+<node id="RBRR11"/>
+<node id="SPXS11"/>
+<node id="VCJR11"/>
+<node id="VRTM11"/>
+<node id="VVMR11"/>
+<node id="BFCG39"/>
+<node id="BICL39"/>
+<node id="BRFT11"/>
+<node id="CPLG11"/>
+<node id="CRAA11"/>
+<node id="DOHL3"/>
+<node id="DRIT11"/>
+<node id="DVER11"/>
+<node id="EGAF11"/>
+<node id="FGAA11"/>
+<node id="IAGR11"/>
+<node id="IGTI4"/>
+<node id="JGPX11"/>
+<node id="LSAG11"/>
+<node id="SEQL3"/>
+<node id="VGIA11"/>
+<node id="AIEC11"/>
+<node id="KNCA11"/>
+<node id="VCRA11"/>
+<node id="AJFI11"/>
+<node id="CBEE3"/>
+<node id="CTKA3"/>
+<node id="HCST11"/>
+<node id="ALLD3"/>
+<node id="ALMI11"/>
+<node id="ALUP11"/>
+<node id="ALUP4"/>
+<node id="AURE3"/>
+<node id="CEED3"/>
+<node id="CPFE3"/>
+<node id="ENGI4"/>
+<node id="HBRE3"/>
+<node id="IGTI3"/>
+<node id="KEPL3"/>
+<node id="ROMI3"/>
+<node id="SHUL4"/>
+<node id="TAEE11"/>
+<node id="TAEE3"/>
+<node id="TAEE4"/>
+<node id="TEND3"/>
+<node id="VTRU3"/>
+<node id="XPBR31"/>
+<node id="ALPA3"/>
+<node id="ALPK3"/>
+<node id="BGRT39"/>
+<node id="BIHI39"/>
+<node id="FIXX11"/>
+<node id="ALUP3"/>
+<node id="EGIE3"/>
+<node id="KOPA11"/>
+<node id="ALZC11"/>
+<node id="ALZR11"/>
+<node id="AMAR3"/>
+<node id="AMOB3"/>
+<node id="BLUR11"/>
+<node id="RPAD3"/>
+<node id="RPAD6"/>
+<node id="VIFI11"/>
+<node id="ANCR11"/>
+<node id="APTO11"/>
+<node id="APXM11"/>
+<node id="PEAB4"/>
+<node id="AROA11"/>
+<node id="BSRE39"/>
+<node id="ARRI11"/>
+<node id="ARXD11"/>
+<node id="DEXP3"/>
+<node id="DEXP4"/>
+<node id="ATED3"/>
+<node id="AVLL3"/>
+<node id="CMIG3"/>
+<node id="PETR3"/>
+<node id="PETR4"/>
+<node id="AZEV3"/>
+<node id="AZEV4"/>
+<node id="AZIN11"/>
+<node id="AZPL11"/>
+<node id="BMIN3"/>
+<node id="FSTU11"/>
+<node id="SNFZ11"/>
+<node id="WLMM3"/>
+<node id="MGLU3"/>
+<node id="BRAP4"/>
+<node id="BRKM3"/>
+<node id="BRKM5"/>
+<node id="BRST3"/>
+<node id="CMIN3"/>
+<node id="FESA4"/>
+<node id="FIQE3"/>
+<node id="OPCT3"/>
+<node id="PRNR3"/>
+<node id="RAPT3"/>
+<node id="RECV3"/>
+<node id="TIMS3"/>
+<node id="USIM3"/>
+<node id="USIM5"/>
+<node id="VALE3"/>
+<node id="WIZC3"/>
+<node id="BCHI39"/>
+<node id="BCHQ39"/>
+<node id="BFXI39"/>
+<node id="MAXR11"/>
+<node id="BAER39"/>
+<node id="BAIQ39"/>
+<node id="BCPX39"/>
+<node id="BKCH39"/>
+<node id="BRSR5"/>
+<node id="BSIL39"/>
+<node id="BURA39"/>
+<node id="GOAU3"/>
+<node id="GOAU4"/>
+<node id="BTAG11"/>
+<node id="CPTR11"/>
+<node id="GCRA11"/>
+<node id="GRWA11"/>
+<node id="SAPI11"/>
+<node id="BARI11"/>
+<node id="GARE11"/>
+<node id="HABT11"/>
+<node id="ICRI11"/>
+<node id="ITRI11"/>
+<node id="MFII11"/>
+<node id="VGHF11"/>
+<node id="IRIF11"/>
+<node id="MCEM11"/>
+<node id="OIAG11"/>
+<node id="TOPP11"/>
+<node id="BBSE3"/>
+<node id="GGBR4"/>
+<node id="BBFI11"/>
+<node id="JOPA3"/>
+<node id="BBFO11"/>
+<node id="BBIG11"/>
+<node id="BBOI11"/>
+<node id="CBAV3"/>
+<node id="CXSE3"/>
+<node id="DESK3"/>
+<node id="ESPA3"/>
+<node id="GGBR3"/>
+<node id="GRND3"/>
+<node id="HYPE3"/>
+<node id="MEAL3"/>
+<node id="RADL3"/>
+<node id="TCSA3"/>
+<node id="PLCR11"/>
+<node id="DIRR3"/>
+<node id="LPSB3"/>
+<node id="NATU3"/>
+<node id="POMO3"/>
+<node id="POMO4"/>
+<node id="VLID3"/>
+<node id="BCIR39"/>
+<node id="BIXN39"/>
+<node id="ETHA39"/>
+<node id="ZAVC11"/>
+<node id="BCIA11"/>
+<node id="BRBI11"/>
+<node id="DASA3"/>
+<node id="SOJA3"/>
+<node id="TASA4"/>
+<node id="UNIP6"/>
+<node id="VITT3"/>
+<node id="FRIO3"/>
+<node id="WTSP11"/>
+<node id="BITH11"/>
+<node id="BLPA39"/>
+<node id="BLQD39"/>
+<node id="BSDV39"/>
+<node id="BSOX39"/>
+<node id="COIN11"/>
+<node id="DAMT11"/>
+<node id="ETHE11"/>
+<node id="HASH11"/>
+<node id="BCOM39"/>
+<node id="FPOR11"/>
+<node id="VILG11"/>
+<node id="VISC11"/>
+<node id="BSHV39"/>
+<node id="BTFL39"/>
+<node id="CSMG3"/>
+<node id="MDIA3"/>
+<node id="SAPR4"/>
+<node id="BDIF11"/>
+<node id="ENJU3"/>
+<node id="HBSA3"/>
+<node id="PSSA3"/>
+<node id="BLPX39"/>
+<node id="GZIT11"/>
+<node id="KNDI11"/>
+<node id="NUIF11"/>
+<node id="PATI3"/>
+<node id="PINE3"/>
+<node id="QETH11"/>
+<node id="URHF11"/>
+<node id="BHIA3"/>
+<node id="BLMO11"/>
+<node id="BTHI11"/>
+<node id="CHIP11"/>
+<node id="CLIN11"/>
+<node id="COPN11"/>
+<node id="CPSH11"/>
+<node id="CPUR11"/>
+<node id="DAMA11"/>
+<node id="DOLA11"/>
+<node id="EXES11"/>
+<node id="FIIP11"/>
+<node id="FISC11"/>
+<node id="HGBL11"/>
+<node id="IBIT39"/>
+<node id="IFRI11"/>
+<node id="ISAE3"/>
+<node id="JSCR11"/>
+<node id="KNUQ11"/>
+<node id="QSOL11"/>
+<node id="RECM11"/>
+<node id="RENV11"/>
+<node id="RIFF11"/>
+<node id="SNEL11"/>
+<node id="SOLH11"/>
+<node id="TKNO4"/>
+<node id="TRXY11"/>
+<node id="TVRI11"/>
+<node id="VGRI11"/>
+<node id="VVCR11"/>
+<node id="BEES3"/>
+<node id="BEES4"/>
+<node id="GOGL35"/>
+<node id="BIEI39"/>
+<node id="BRAV3"/>
+<node id="NUTR3"/>
+<node id="BRKM6"/>
+<node id="BIYE39"/>
+<node id="BIXJ39"/>
+<node id="QDFI11"/>
+<node id="BRAP3"/>
+<node id="BHYG39"/>
+<node id="BTLT39"/>
+<node id="ERPA11"/>
+<node id="BTHF11"/>
+<node id="JMBI11"/>
+<node id="KORE11"/>
+<node id="ZAGH11"/>
+<node id="EDFO11"/>
+<node id="BGIP4"/>
+<node id="BSHY39"/>
+<node id="BIDB11"/>
+<node id="ZAVI11"/>
+<node id="BIOM3"/>
+<node id="BITI11"/>
+<node id="BLOK11"/>
+<node id="CRPT11"/>
+<node id="DEFI11"/>
+<node id="META11"/>
+<node id="QBTC11"/>
+<node id="WEB311"/>
+<node id="BLCA11"/>
+<node id="BLMG11"/>
+<node id="EVTC31"/>
+<node id="BMEB3"/>
+<node id="BMIN4"/>
+<node id="SMRE11"/>
+<node id="TJKB11"/>
+<node id="BMKS3"/>
+<node id="BNFS11"/>
+<node id="EMBJ3"/>
+<node id="EUCA4"/>
+<node id="LEVE3"/>
+<node id="LOGN3"/>
+<node id="OFSA3"/>
+<node id="PFRM3"/>
+<node id="PRIO3"/>
+<node id="TECN3"/>
+<node id="WEGE3"/>
+<node id="BRCO11"/>
+<node id="BRCR11"/>
+<node id="HPDP11"/>
+<node id="RBOP11"/>
+<node id="RPAD5"/>
+<node id="SNCI11"/>
+<node id="BRIM11"/>
+<node id="BRIP11"/>
+<node id="OCRE11"/>
+<node id="BROF11"/>
+<node id="BRSR3"/>
+<node id="BRZP11"/>
+<node id="BSLI3"/>
+<node id="BSLI4"/>
+<node id="TXRX4"/>
+<node id="FAMB11"/>
+<node id="FICT3"/>
+<node id="INRD11"/>
+<node id="SNME11"/>
+<node id="GLOG11"/>
+<node id="SJAU11"/>
+<node id="CEOC11"/>
+<node id="PLAS3"/>
+<node id="BTAL11"/>
+<node id="BTCI11"/>
+<node id="GSHP3"/>
+<node id="BTLG11"/>
+<node id="FAED11"/>
+<node id="HGLG11"/>
+<node id="HGRU11"/>
+<node id="XPML11"/>
+<node id="KLBN3"/>
+<node id="CAMB3"/>
+<node id="CARE11"/>
+<node id="CASH3"/>
+<node id="CCME11"/>
+<node id="CEBR3"/>
+<node id="CEBR5"/>
+<node id="CEBR6"/>
+<node id="CEDO4"/>
+<node id="CEEB3"/>
+<node id="CGAS5"/>
+<node id="CGRA3"/>
+<node id="CGRA4"/>
+<node id="CJCT11"/>
+<node id="CLSC3"/>
+<node id="CNES11"/>
+<node id="DOTZ3"/>
+<node id="FESA3"/>
+<node id="HREC11"/>
+<node id="TRBL11"/>
+<node id="VCRR11"/>
+<node id="WDCN3"/>
+<node id="XPID11"/>
+<node id="CORN11"/>
+<node id="CPFF11"/>
+<node id="HGFF11"/>
+<node id="KFOF11"/>
+<node id="CPTS11"/>
+<node id="EUCA3"/>
+<node id="JFLL11"/>
+<node id="MNDL3"/>
+<node id="DEVA11"/>
+<node id="DVFF11"/>
+<node id="FYTO11"/>
+<node id="HCTR11"/>
+<node id="HRDF11"/>
+<node id="PEMA11"/>
+<node id="UNIP5"/>
+<node id="VSLH11"/>
+<node id="CRFF11"/>
+<node id="CXCI11"/>
+<node id="NCRI11"/>
+<node id="RBIF11"/>
+<node id="SNID11"/>
+<node id="TMPS11"/>
+<node id="VIUR11"/>
+<node id="WSEC11"/>
+<node id="CRPG5"/>
+<node id="CSUD3"/>
+<node id="CTKA4"/>
+<node id="GAME11"/>
+<node id="HGIC11"/>
+<node id="CXAG11"/>
+<node id="CXCE11"/>
+<node id="CXTL11"/>
+<node id="CYCR11"/>
+<node id="MELK3"/>
+<node id="EQPA3"/>
+<node id="GCRI11"/>
+<node id="KNOX11"/>
+<node id="LIFE11"/>
+<node id="PLAG11"/>
+<node id="RBRD11"/>
+<node id="VCRI11"/>
+<node id="DMVF3"/>
+<node id="DPRO11"/>
+<node id="EALT4"/>
+<node id="EDGA11"/>
+<node id="ENMT4"/>
+<node id="JPPA11"/>
+<node id="ODPV3"/>
+<node id="RBRL11"/>
+<node id="SCAR3"/>
+<node id="EMAE4"/>
+<node id="ENDD11"/>
+<node id="ENGI3"/>
+<node id="EPAR3"/>
+<node id="EQIR11"/>
+<node id="RCSL4"/>
+<node id="FATN11"/>
+<node id="FCFL11"/>
+<node id="RBLG11"/>
+<node id="PRSV11"/>
+<node id="PTNT3"/>
+<node id="RBRP11"/>
+<node id="RECR11"/>
+<node id="FIGS11"/>
+<node id="FIIB11"/>
+<node id="FLMA11"/>
+<node id="FLRP11"/>
+<node id="FMOF11"/>
+<node id="FPAB11"/>
+<node id="FVPQ11"/>
+<node id="GEPA3"/>
+<node id="GEPA4"/>
+<node id="GFSA3"/>
+<node id="GGRC11"/>
+<node id="GTWR11"/>
+<node id="HAGA4"/>
+<node id="HAPV3"/>
+<node id="HCHG11"/>
+<node id="HGBS11"/>
+<node id="HSRE11"/>
+<node id="IRBR3"/>
+<node id="JSRE11"/>
+<node id="JURO11"/>
+<node id="KNIP11"/>
+<node id="KNRI11"/>
+<node id="LVBI11"/>
+<node id="MGHT11"/>
+<node id="PATL11"/>
+<node id="PCIP11"/>
+<node id="PINE4"/>
+<node id="PPEI11"/>
+<node id="PQDP11"/>
+<node id="PSEC11"/>
+<node id="PVBI11"/>
+<node id="RBRY11"/>
+<node id="RCRB11"/>
+<node id="RNGO11"/>
+<node id="RZAK11"/>
+<node id="RZAT11"/>
+<node id="SLCE3"/>
+<node id="SYNE3"/>
+<node id="TELB3"/>
+<node id="TELB4"/>
+<node id="TGAR11"/>
+<node id="TOKY3"/>
+<node id="UCAS3"/>
+<node id="URPR11"/>
+<node id="VIGT11"/>
+<node id="VINO11"/>
+<node id="VIVT3"/>
+<node id="VOTS11"/>
+<node id="VPPR11"/>
+<node id="VSHO11"/>
+<node id="VSTE3"/>
+<node id="WHRL3"/>
+<node id="WHRL4"/>
+<node id="WLMM4"/>
+<node id="XPCI11"/>
+<node id="G2DI33"/>
+<node id="HGRE11"/>
+<node id="TRXF11"/>
+<node id="TRAD3"/>
+<node id="KIVO11"/>
+<node id="WPLZ11"/>
+<node id="HAAA11"/>
+<node id="HAGA3"/>
+<node id="HBTS5"/>
+<node id="HLOG11"/>
+<node id="HSAF11"/>
+<node id="MTSA4"/>
+<node id="PDTC3"/>
+<node id="RCFA11"/>
+<node id="HGPO11"/>
+<node id="PCAR3"/>
+<node id="KNHY11"/>
+<node id="PABY11"/>
+<node id="RINV11"/>
+<node id="IRIM11"/>
+<node id="ITIT11"/>
+<node id="JBSS32"/>
+<node id="KDIF11"/>
+<node id="NEWU11"/>
+<node id="SHPH11"/>
+<node id="XPSF11"/>
+<node id="SUZB3"/>
+<node id="LUXM4"/>
+<node id="MCCI11"/>
+<node id="NEWL11"/>
+<node id="RBVA11"/>
+<node id="RPRI11"/>
+<node id="XPIE11"/>
+<node id="KNRE11"/>
+<node id="KNSC11"/>
+<node id="NGRD3"/>
+<node id="SEQR11"/>
+<node id="NSLU11"/>
+<node id="NVHO11"/>
+<node id="RECT11"/>
+<node id="ONCO3"/>
+<node id="PICE11"/>
+<node id="RBIR11"/>
+<node id="VGIR11"/>
+<node id="PLRI11"/>
+<node id="RFOF11"/>
+<node id="SPTW11"/>
+<node id="VGIP11"/>
+<node id="PPLA11"/>
+<node id="RBHY11"/>
+<node id="RBRF11"/>
+<node id="RCSL3"/>
+<node id="SADI11"/>
+<node id="SARE11"/>
+<node id="TASA3"/>
+<node id="VVEO3"/>
+<node id="SNLG11"/>
+<node id="WHGR11"/>
+<node id="UNIP3"/>
+<node id="XPIN11"/>
+<edge source="AAGR11" target="FDES11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="AAGR11" target="PATI4">
+  <data key="d0">0.9982</data>
+</edge>
+<edge source="AAGR11" target="ESTR4">
+  <data key="d0">0.9807</data>
+</edge>
+<edge source="AAGR11" target="PSVM11">
+  <data key="d0">0.8613</data>
+</edge>
+<edge source="BAUH4" target="RURA11">
+  <data key="d0">0.9478</data>
+</edge>
+<edge source="BAUH4" target="XPCA11">
+  <data key="d0">0.9287</data>
+</edge>
+<edge source="BAUH4" target="IAGR11">
+  <data key="d0">0.7496</data>
+</edge>
+<edge source="BCRI11" target="FZDA11">
+  <data key="d0">0.9524</data>
+</edge>
+<edge source="BCRI11" target="RURA11">
+  <data key="d0">0.7378</data>
+</edge>
+<edge source="BCWV39" target="RZAG11">
+  <data key="d0">0.9519</data>
+</edge>
+<edge source="BCWV39" target="VCRA11">
+  <data key="d0">0.867</data>
+</edge>
+<edge source="BCWV39" target="FDES11">
+  <data key="d0">0.427</data>
+</edge>
+<edge source="BEWA39" target="KNCA11">
+  <data key="d0">0.9865</data>
+</edge>
+<edge source="BEWA39" target="BEWC39">
+  <data key="d0">0.7079</data>
+</edge>
+<edge source="BEWA39" target="BPVE39">
+  <data key="d0">0.6891</data>
+</edge>
+<edge source="BEWA39" target="BIGF39">
+  <data key="d0">0.4828</data>
+</edge>
+<edge source="BLAU3" target="FZDA11">
+  <data key="d0">0.8763</data>
+</edge>
+<edge source="BLAU3" target="HIGH11">
+  <data key="d0">0.556</data>
+</edge>
+<edge source="BNBR3" target="TXRX3">
+  <data key="d0">0.7469</data>
+</edge>
+<edge source="BSOC39" target="BTFL39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BSOC39" target="VVMR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BSOC39" target="TIRB11">
+  <data key="d0">0.9985</data>
+</edge>
+<edge source="BSOC39" target="NSDV11">
+  <data key="d0">0.9965</data>
+</edge>
+<edge source="BSOC39" target="NDIV11">
+  <data key="d0">0.9956</data>
+</edge>
+<edge source="BSOC39" target="ETHA39">
+  <data key="d0">0.9951</data>
+</edge>
+<edge source="BSOC39" target="BINC11">
+  <data key="d0">0.986</data>
+</edge>
+<edge source="BSOC39" target="DVER11">
+  <data key="d0">0.9855</data>
+</edge>
+<edge source="BSOC39" target="MCEM11">
+  <data key="d0">0.9835</data>
+</edge>
+<edge source="BSOC39" target="ALOS3">
+  <data key="d0">0.9824</data>
+</edge>
+<edge source="BSOC39" target="FICT3">
+  <data key="d0">0.9528</data>
+</edge>
+<edge source="BSOC39" target="PINE3">
+  <data key="d0">0.9455</data>
+</edge>
+<edge source="BSOC39" target="BTHI11">
+  <data key="d0">0.9401</data>
+</edge>
+<edge source="BSOC39" target="COIN11">
+  <data key="d0">0.936</data>
+</edge>
+<edge source="BSOC39" target="BRST3">
+  <data key="d0">0.9298</data>
+</edge>
+<edge source="BSOC39" target="TKNO4">
+  <data key="d0">0.9034</data>
+</edge>
+<edge source="BSOC39" target="VTRU3">
+  <data key="d0">0.8961</data>
+</edge>
+<edge source="BSOC39" target="QSOL11">
+  <data key="d0">0.8297</data>
+</edge>
+<edge source="BSOC39" target="ISAE4">
+  <data key="d0">0.8214</data>
+</edge>
+<edge source="BSOC39" target="OCRE11">
+  <data key="d0">0.806</data>
+</edge>
+<edge source="BSOC39" target="BEDC39">
+  <data key="d0">0.7415</data>
+</edge>
+<edge source="BSOC39" target="CPUR11">
+  <data key="d0">0.6963</data>
+</edge>
+<edge source="BSOC39" target="VVCR11">
+  <data key="d0">0.6233</data>
+</edge>
+<edge source="BSOC39" target="IBIT39">
+  <data key="d0">0.4505</data>
+</edge>
+<edge source="BTIP39" target="FZDA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BTIP39" target="BUSM39">
+  <data key="d0">0.5907</data>
+</edge>
+<edge source="BTIP39" target="BSHV39">
+  <data key="d0">0.4103</data>
+</edge>
+<edge source="CGAS3" target="TXRX3">
+  <data key="d0">0.8107</data>
+</edge>
+<edge source="CGAS3" target="CGAS5">
+  <data key="d0">0.5892</data>
+</edge>
+<edge source="DXCO3" target="FZDA11">
+  <data key="d0">0.9961</data>
+</edge>
+<edge source="DXCO3" target="SMAL11">
+  <data key="d0">0.6171</data>
+</edge>
+<edge source="DXCO3" target="BDOM11">
+  <data key="d0">0.5785</data>
+</edge>
+<edge source="DXCO3" target="INBR32">
+  <data key="d0">0.405</data>
+</edge>
+<edge source="ENMT3" target="FZDA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="ENMT3" target="HGAG11">
+  <data key="d0">0.4994</data>
+</edge>
+<edge source="EQMA3B" target="FZDA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="EQMA3B" target="RURA11">
+  <data key="d0">0.4958</data>
+</edge>
+<edge source="ESTR4" target="BRFT11">
+  <data key="d0">0.9967</data>
+</edge>
+<edge source="ESTR4" target="GRWA11">
+  <data key="d0">0.9933</data>
+</edge>
+<edge source="FDES11" target="AGRX11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="BFAV39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="BRFT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="CPTR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="EGAF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="FGAA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="HGAG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="JGPX11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="KOPA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="RURA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="RZAG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="SNFZ11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="VCRA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FDES11" target="PRSN11">
+  <data key="d0">0.5915</data>
+</edge>
+<edge source="FDES11" target="DRIT11">
+  <data key="d0">0.5625</data>
+</edge>
+<edge source="FZDA11" target="ALMI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="B3BR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="BLMO11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="CGRA3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="DAMT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="DEFI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="DEXP4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="GEPA3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="GEPA4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="HAGA4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="HSRE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="JSLG3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="KEVE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="NUIF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="PCIP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="PEAB4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="RURA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="SBSP3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="VOTS11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="VVRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="WTSP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FZDA11" target="PSEC11">
+  <data key="d0">0.9999</data>
+</edge>
+<edge source="FZDA11" target="TOKY3">
+  <data key="d0">0.9999</data>
+</edge>
+<edge source="FZDA11" target="HPDP11">
+  <data key="d0">0.9998</data>
+</edge>
+<edge source="FZDA11" target="OGIN11">
+  <data key="d0">0.9997</data>
+</edge>
+<edge source="FZDA11" target="NCRI11">
+  <data key="d0">0.999</data>
+</edge>
+<edge source="FZDA11" target="BTHF11">
+  <data key="d0">0.9988</data>
+</edge>
+<edge source="FZDA11" target="VULC3">
+  <data key="d0">0.9984</data>
+</edge>
+<edge source="FZDA11" target="ANIM3">
+  <data key="d0">0.9981</data>
+</edge>
+<edge source="FZDA11" target="HIGH11">
+  <data key="d0">0.9977</data>
+</edge>
+<edge source="FZDA11" target="BOVA11">
+  <data key="d0">0.9973</data>
+</edge>
+<edge source="FZDA11" target="BTAG11">
+  <data key="d0">0.9973</data>
+</edge>
+<edge source="FZDA11" target="ASAI3">
+  <data key="d0">0.9968</data>
+</edge>
+<edge source="FZDA11" target="IBOB11">
+  <data key="d0">0.9962</data>
+</edge>
+<edge source="FZDA11" target="TRIG11">
+  <data key="d0">0.9959</data>
+</edge>
+<edge source="FZDA11" target="RENT3">
+  <data key="d0">0.9956</data>
+</edge>
+<edge source="FZDA11" target="YDUQ3">
+  <data key="d0">0.9948</data>
+</edge>
+<edge source="FZDA11" target="BHER39">
+  <data key="d0">0.9946</data>
+</edge>
+<edge source="FZDA11" target="EQTL3">
+  <data key="d0">0.9934</data>
+</edge>
+<edge source="FZDA11" target="CDII11">
+  <data key="d0">0.9932</data>
+</edge>
+<edge source="FZDA11" target="SNFZ11">
+  <data key="d0">0.9926</data>
+</edge>
+<edge source="FZDA11" target="VITT3">
+  <data key="d0">0.9921</data>
+</edge>
+<edge source="FZDA11" target="BDOM11">
+  <data key="d0">0.9919</data>
+</edge>
+<edge source="FZDA11" target="JSAF11">
+  <data key="d0">0.9919</data>
+</edge>
+<edge source="FZDA11" target="PATL11">
+  <data key="d0">0.9916</data>
+</edge>
+<edge source="FZDA11" target="SMAC11">
+  <data key="d0">0.9898</data>
+</edge>
+<edge source="FZDA11" target="SMAB11">
+  <data key="d0">0.989</data>
+</edge>
+<edge source="FZDA11" target="BIDB11">
+  <data key="d0">0.9887</data>
+</edge>
+<edge source="FZDA11" target="SMAL11">
+  <data key="d0">0.9885</data>
+</edge>
+<edge source="FZDA11" target="BSHV39">
+  <data key="d0">0.988</data>
+</edge>
+<edge source="FZDA11" target="RZTR11">
+  <data key="d0">0.9865</data>
+</edge>
+<edge source="FZDA11" target="ITUB3">
+  <data key="d0">0.9848</data>
+</edge>
+<edge source="FZDA11" target="JHSF3">
+  <data key="d0">0.9838</data>
+</edge>
+<edge source="FZDA11" target="AMOB3">
+  <data key="d0">0.9826</data>
+</edge>
+<edge source="FZDA11" target="B3SA3">
+  <data key="d0">0.9813</data>
+</edge>
+<edge source="FZDA11" target="TPIS3">
+  <data key="d0">0.9813</data>
+</edge>
+<edge source="FZDA11" target="CSMG3">
+  <data key="d0">0.9796</data>
+</edge>
+<edge source="FZDA11" target="LWSA3">
+  <data key="d0">0.9794</data>
+</edge>
+<edge source="FZDA11" target="SAPR3">
+  <data key="d0">0.979</data>
+</edge>
+<edge source="FZDA11" target="CASH3">
+  <data key="d0">0.9789</data>
+</edge>
+<edge source="FZDA11" target="EQPA3">
+  <data key="d0">0.9778</data>
+</edge>
+<edge source="FZDA11" target="FMOF11">
+  <data key="d0">0.9776</data>
+</edge>
+<edge source="FZDA11" target="ITUB4">
+  <data key="d0">0.9776</data>
+</edge>
+<edge source="FZDA11" target="IGTI3">
+  <data key="d0">0.9774</data>
+</edge>
+<edge source="FZDA11" target="FATN11">
+  <data key="d0">0.9763</data>
+</edge>
+<edge source="FZDA11" target="BQYL39">
+  <data key="d0">0.9762</data>
+</edge>
+<edge source="FZDA11" target="CMIG4">
+  <data key="d0">0.9759</data>
+</edge>
+<edge source="FZDA11" target="WEB311">
+  <data key="d0">0.9757</data>
+</edge>
+<edge source="FZDA11" target="WIZC3">
+  <data key="d0">0.9752</data>
+</edge>
+<edge source="FZDA11" target="CEBR6">
+  <data key="d0">0.9741</data>
+</edge>
+<edge source="FZDA11" target="ALUP4">
+  <data key="d0">0.973</data>
+</edge>
+<edge source="FZDA11" target="BOVX11">
+  <data key="d0">0.9727</data>
+</edge>
+<edge source="FZDA11" target="INLG11">
+  <data key="d0">0.9724</data>
+</edge>
+<edge source="FZDA11" target="BMEB3">
+  <data key="d0">0.9713</data>
+</edge>
+<edge source="FZDA11" target="MELK3">
+  <data key="d0">0.9701</data>
+</edge>
+<edge source="FZDA11" target="INBR32">
+  <data key="d0">0.9694</data>
+</edge>
+<edge source="FZDA11" target="MXRF11">
+  <data key="d0">0.9665</data>
+</edge>
+<edge source="FZDA11" target="TGAR11">
+  <data key="d0">0.9659</data>
+</edge>
+<edge source="FZDA11" target="CXCE11">
+  <data key="d0">0.9656</data>
+</edge>
+<edge source="FZDA11" target="XPCI11">
+  <data key="d0">0.9656</data>
+</edge>
+<edge source="FZDA11" target="MATD3">
+  <data key="d0">0.9645</data>
+</edge>
+<edge source="FZDA11" target="CPTI11">
+  <data key="d0">0.9622</data>
+</edge>
+<edge source="FZDA11" target="AZIN11">
+  <data key="d0">0.9617</data>
+</edge>
+<edge source="FZDA11" target="HYPE3">
+  <data key="d0">0.9614</data>
+</edge>
+<edge source="FZDA11" target="ENGI3">
+  <data key="d0">0.9613</data>
+</edge>
+<edge source="FZDA11" target="DIVO11">
+  <data key="d0">0.9604</data>
+</edge>
+<edge source="FZDA11" target="CEBR5">
+  <data key="d0">0.96</data>
+</edge>
+<edge source="FZDA11" target="CEEB3">
+  <data key="d0">0.9574</data>
+</edge>
+<edge source="FZDA11" target="CACR11">
+  <data key="d0">0.9542</data>
+</edge>
+<edge source="FZDA11" target="ALPK3">
+  <data key="d0">0.954</data>
+</edge>
+<edge source="FZDA11" target="BBSD11">
+  <data key="d0">0.9527</data>
+</edge>
+<edge source="FZDA11" target="JMBI11">
+  <data key="d0">0.9505</data>
+</edge>
+<edge source="FZDA11" target="ESGB11">
+  <data key="d0">0.9491</data>
+</edge>
+<edge source="FZDA11" target="WHRL3">
+  <data key="d0">0.9468</data>
+</edge>
+<edge source="FZDA11" target="VIVT3">
+  <data key="d0">0.9467</data>
+</edge>
+<edge source="FZDA11" target="ZAGH11">
+  <data key="d0">0.9459</data>
+</edge>
+<edge source="FZDA11" target="TFCO4">
+  <data key="d0">0.9458</data>
+</edge>
+<edge source="FZDA11" target="BCHI39">
+  <data key="d0">0.9457</data>
+</edge>
+<edge source="FZDA11" target="VCRI11">
+  <data key="d0">0.9453</data>
+</edge>
+<edge source="FZDA11" target="PLPL3">
+  <data key="d0">0.9436</data>
+</edge>
+<edge source="FZDA11" target="LREN3">
+  <data key="d0">0.9425</data>
+</edge>
+<edge source="FZDA11" target="XPML11">
+  <data key="d0">0.9412</data>
+</edge>
+<edge source="FZDA11" target="BDIF11">
+  <data key="d0">0.9395</data>
+</edge>
+<edge source="FZDA11" target="CVCB3">
+  <data key="d0">0.9376</data>
+</edge>
+<edge source="FZDA11" target="RZAT11">
+  <data key="d0">0.932</data>
+</edge>
+<edge source="FZDA11" target="BHIA3">
+  <data key="d0">0.9318</data>
+</edge>
+<edge source="FZDA11" target="BBDC3">
+  <data key="d0">0.9311</data>
+</edge>
+<edge source="FZDA11" target="URPR11">
+  <data key="d0">0.93</data>
+</edge>
+<edge source="FZDA11" target="MGHT11">
+  <data key="d0">0.9269</data>
+</edge>
+<edge source="FZDA11" target="EMAE4">
+  <data key="d0">0.9257</data>
+</edge>
+<edge source="FZDA11" target="SIMH3">
+  <data key="d0">0.9222</data>
+</edge>
+<edge source="FZDA11" target="HAPV3">
+  <data key="d0">0.9174</data>
+</edge>
+<edge source="FZDA11" target="XPBR31">
+  <data key="d0">0.9173</data>
+</edge>
+<edge source="FZDA11" target="ARML3">
+  <data key="d0">0.9166</data>
+</edge>
+<edge source="FZDA11" target="BNFS11">
+  <data key="d0">0.9146</data>
+</edge>
+<edge source="FZDA11" target="TTEN3">
+  <data key="d0">0.9135</data>
+</edge>
+<edge source="FZDA11" target="XINA11">
+  <data key="d0">0.9108</data>
+</edge>
+<edge source="FZDA11" target="ABCP11">
+  <data key="d0">0.9106</data>
+</edge>
+<edge source="FZDA11" target="FYTO11">
+  <data key="d0">0.9094</data>
+</edge>
+<edge source="FZDA11" target="UGPA3">
+  <data key="d0">0.908</data>
+</edge>
+<edge source="FZDA11" target="BBDC4">
+  <data key="d0">0.907</data>
+</edge>
+<edge source="FZDA11" target="CPFE3">
+  <data key="d0">0.9069</data>
+</edge>
+<edge source="FZDA11" target="KNOX11">
+  <data key="d0">0.9054</data>
+</edge>
+<edge source="FZDA11" target="DVFF11">
+  <data key="d0">0.9012</data>
+</edge>
+<edge source="FZDA11" target="HGBS11">
+  <data key="d0">0.8974</data>
+</edge>
+<edge source="FZDA11" target="VRTA11">
+  <data key="d0">0.8957</data>
+</edge>
+<edge source="FZDA11" target="ZAVC11">
+  <data key="d0">0.894</data>
+</edge>
+<edge source="FZDA11" target="RECR11">
+  <data key="d0">0.8935</data>
+</edge>
+<edge source="FZDA11" target="SMFT3">
+  <data key="d0">0.8916</data>
+</edge>
+<edge source="FZDA11" target="HGLG11">
+  <data key="d0">0.8903</data>
+</edge>
+<edge source="FZDA11" target="JALL3">
+  <data key="d0">0.8899</data>
+</edge>
+<edge source="FZDA11" target="AERI3">
+  <data key="d0">0.8881</data>
+</edge>
+<edge source="FZDA11" target="HASH11">
+  <data key="d0">0.8876</data>
+</edge>
+<edge source="FZDA11" target="BODB11">
+  <data key="d0">0.8852</data>
+</edge>
+<edge source="FZDA11" target="BGIP4">
+  <data key="d0">0.8832</data>
+</edge>
+<edge source="FZDA11" target="IRBR3">
+  <data key="d0">0.8802</data>
+</edge>
+<edge source="FZDA11" target="LJQQ3">
+  <data key="d0">0.8754</data>
+</edge>
+<edge source="FZDA11" target="VIGT11">
+  <data key="d0">0.8722</data>
+</edge>
+<edge source="FZDA11" target="PORD11">
+  <data key="d0">0.8676</data>
+</edge>
+<edge source="FZDA11" target="DEVA11">
+  <data key="d0">0.8673</data>
+</edge>
+<edge source="FZDA11" target="RBOP11">
+  <data key="d0">0.8665</data>
+</edge>
+<edge source="FZDA11" target="BSLI4">
+  <data key="d0">0.8652</data>
+</edge>
+<edge source="FZDA11" target="FLMA11">
+  <data key="d0">0.8613</data>
+</edge>
+<edge source="FZDA11" target="CGRA4">
+  <data key="d0">0.8605</data>
+</edge>
+<edge source="FZDA11" target="SYNE3">
+  <data key="d0">0.8589</data>
+</edge>
+<edge source="FZDA11" target="COGN3">
+  <data key="d0">0.8542</data>
+</edge>
+<edge source="FZDA11" target="ENGI4">
+  <data key="d0">0.8537</data>
+</edge>
+<edge source="FZDA11" target="FAED11">
+  <data key="d0">0.8515</data>
+</edge>
+<edge source="FZDA11" target="HCRI11">
+  <data key="d0">0.8499</data>
+</edge>
+<edge source="FZDA11" target="MDNE3">
+  <data key="d0">0.8441</data>
+</edge>
+<edge source="FZDA11" target="LVOL11">
+  <data key="d0">0.8434</data>
+</edge>
+<edge source="FZDA11" target="HBOR3">
+  <data key="d0">0.8421</data>
+</edge>
+<edge source="FZDA11" target="GGPS3">
+  <data key="d0">0.8403</data>
+</edge>
+<edge source="FZDA11" target="ITIP11">
+  <data key="d0">0.8385</data>
+</edge>
+<edge source="FZDA11" target="TCSA3">
+  <data key="d0">0.8366</data>
+</edge>
+<edge source="FZDA11" target="ENGI11">
+  <data key="d0">0.833</data>
+</edge>
+<edge source="FZDA11" target="APXM11">
+  <data key="d0">0.8309</data>
+</edge>
+<edge source="FZDA11" target="LPSB3">
+  <data key="d0">0.8302</data>
+</edge>
+<edge source="FZDA11" target="TIMS3">
+  <data key="d0">0.8245</data>
+</edge>
+<edge source="FZDA11" target="WHRL4">
+  <data key="d0">0.8139</data>
+</edge>
+<edge source="FZDA11" target="SNCI11">
+  <data key="d0">0.8066</data>
+</edge>
+<edge source="FZDA11" target="MULT3">
+  <data key="d0">0.8051</data>
+</edge>
+<edge source="FZDA11" target="TELB4">
+  <data key="d0">0.8051</data>
+</edge>
+<edge source="FZDA11" target="BRKM5">
+  <data key="d0">0.8042</data>
+</edge>
+<edge source="FZDA11" target="PATC11">
+  <data key="d0">0.8029</data>
+</edge>
+<edge source="FZDA11" target="POSI3">
+  <data key="d0">0.8023</data>
+</edge>
+<edge source="FZDA11" target="QBTC11">
+  <data key="d0">0.7956</data>
+</edge>
+<edge source="FZDA11" target="IFRA11">
+  <data key="d0">0.7932</data>
+</edge>
+<edge source="FZDA11" target="QUAL3">
+  <data key="d0">0.7912</data>
+</edge>
+<edge source="FZDA11" target="PINE4">
+  <data key="d0">0.7879</data>
+</edge>
+<edge source="FZDA11" target="CAMB3">
+  <data key="d0">0.7875</data>
+</edge>
+<edge source="FZDA11" target="MRVE3">
+  <data key="d0">0.786</data>
+</edge>
+<edge source="FZDA11" target="GTWR11">
+  <data key="d0">0.7798</data>
+</edge>
+<edge source="FZDA11" target="CEAB3">
+  <data key="d0">0.7786</data>
+</edge>
+<edge source="FZDA11" target="BSLV39">
+  <data key="d0">0.7758</data>
+</edge>
+<edge source="FZDA11" target="AMAR3">
+  <data key="d0">0.775</data>
+</edge>
+<edge source="FZDA11" target="RAPT4">
+  <data key="d0">0.7737</data>
+</edge>
+<edge source="FZDA11" target="CXAG11">
+  <data key="d0">0.7716</data>
+</edge>
+<edge source="FZDA11" target="PETR3">
+  <data key="d0">0.7713</data>
+</edge>
+<edge source="FZDA11" target="SAPR4">
+  <data key="d0">0.7699</data>
+</edge>
+<edge source="FZDA11" target="BBFO11">
+  <data key="d0">0.7616</data>
+</edge>
+<edge source="FZDA11" target="KCRE11">
+  <data key="d0">0.7563</data>
+</edge>
+<edge source="FZDA11" target="PNVL3">
+  <data key="d0">0.7552</data>
+</edge>
+<edge source="FZDA11" target="JURO11">
+  <data key="d0">0.7518</data>
+</edge>
+<edge source="FZDA11" target="PPEI11">
+  <data key="d0">0.7503</data>
+</edge>
+<edge source="FZDA11" target="RCRB11">
+  <data key="d0">0.75</data>
+</edge>
+<edge source="FZDA11" target="KNRI11">
+  <data key="d0">0.7489</data>
+</edge>
+<edge source="FZDA11" target="CPLE3">
+  <data key="d0">0.7445</data>
+</edge>
+<edge source="FZDA11" target="ENDD11">
+  <data key="d0">0.7432</data>
+</edge>
+<edge source="FZDA11" target="BRSR6">
+  <data key="d0">0.7417</data>
+</edge>
+<edge source="FZDA11" target="TAEE4">
+  <data key="d0">0.741</data>
+</edge>
+<edge source="FZDA11" target="SAPR11">
+  <data key="d0">0.7406</data>
+</edge>
+<edge source="FZDA11" target="MYPK3">
+  <data key="d0">0.7393</data>
+</edge>
+<edge source="FZDA11" target="BRBI11">
+  <data key="d0">0.7313</data>
+</edge>
+<edge source="FZDA11" target="BRKM3">
+  <data key="d0">0.7306</data>
+</edge>
+<edge source="FZDA11" target="VSHO11">
+  <data key="d0">0.7297</data>
+</edge>
+<edge source="FZDA11" target="BITH11">
+  <data key="d0">0.728</data>
+</edge>
+<edge source="FZDA11" target="TASA4">
+  <data key="d0">0.7253</data>
+</edge>
+<edge source="FZDA11" target="META11">
+  <data key="d0">0.722</data>
+</edge>
+<edge source="FZDA11" target="BMGB4">
+  <data key="d0">0.7213</data>
+</edge>
+<edge source="FZDA11" target="TAEE11">
+  <data key="d0">0.7207</data>
+</edge>
+<edge source="FZDA11" target="DMVF3">
+  <data key="d0">0.7191</data>
+</edge>
+<edge source="FZDA11" target="BRCR11">
+  <data key="d0">0.7189</data>
+</edge>
+<edge source="FZDA11" target="ENJU3">
+  <data key="d0">0.7189</data>
+</edge>
+<edge source="FZDA11" target="PTBL3">
+  <data key="d0">0.7178</data>
+</edge>
+<edge source="FZDA11" target="HGCR11">
+  <data key="d0">0.7166</data>
+</edge>
+<edge source="FZDA11" target="GFSA3">
+  <data key="d0">0.7144</data>
+</edge>
+<edge source="FZDA11" target="TELB3">
+  <data key="d0">0.713</data>
+</edge>
+<edge source="FZDA11" target="XPLG11">
+  <data key="d0">0.702</data>
+</edge>
+<edge source="FZDA11" target="VAMO3">
+  <data key="d0">0.7002</data>
+</edge>
+<edge source="FZDA11" target="HTMX11">
+  <data key="d0">0.6979</data>
+</edge>
+<edge source="FZDA11" target="VPPR11">
+  <data key="d0">0.6888</data>
+</edge>
+<edge source="FZDA11" target="VINO11">
+  <data key="d0">0.6868</data>
+</edge>
+<edge source="FZDA11" target="SMTO3">
+  <data key="d0">0.6835</data>
+</edge>
+<edge source="FZDA11" target="HBRE3">
+  <data key="d0">0.6804</data>
+</edge>
+<edge source="FZDA11" target="PVBI11">
+  <data key="d0">0.6795</data>
+</edge>
+<edge source="FZDA11" target="MGLU3">
+  <data key="d0">0.674</data>
+</edge>
+<edge source="FZDA11" target="DEXP3">
+  <data key="d0">0.6729</data>
+</edge>
+<edge source="FZDA11" target="HTEK11">
+  <data key="d0">0.6723</data>
+</edge>
+<edge source="FZDA11" target="WLMM4">
+  <data key="d0">0.6625</data>
+</edge>
+<edge source="FZDA11" target="FVPQ11">
+  <data key="d0">0.6607</data>
+</edge>
+<edge source="FZDA11" target="CSAN3">
+  <data key="d0">0.6562</data>
+</edge>
+<edge source="FZDA11" target="EPAR3">
+  <data key="d0">0.6541</data>
+</edge>
+<edge source="FZDA11" target="TEND3">
+  <data key="d0">0.651</data>
+</edge>
+<edge source="FZDA11" target="ALPA3">
+  <data key="d0">0.6496</data>
+</edge>
+<edge source="FZDA11" target="KNIP11">
+  <data key="d0">0.6198</data>
+</edge>
+<edge source="FZDA11" target="BNDA39">
+  <data key="d0">0.6167</data>
+</edge>
+<edge source="FZDA11" target="DASA3">
+  <data key="d0">0.614</data>
+</edge>
+<edge source="FZDA11" target="RBRY11">
+  <data key="d0">0.6121</data>
+</edge>
+<edge source="FZDA11" target="RZAK11">
+  <data key="d0">0.6099</data>
+</edge>
+<edge source="FZDA11" target="BFXI39">
+  <data key="d0">0.604</data>
+</edge>
+<edge source="FZDA11" target="BEEF3">
+  <data key="d0">0.563</data>
+</edge>
+<edge source="FZDA11" target="BIOM3">
+  <data key="d0">0.5534</data>
+</edge>
+<edge source="FZDA11" target="JSRE11">
+  <data key="d0">0.5438</data>
+</edge>
+<edge source="FZDA11" target="RNGO11">
+  <data key="d0">0.534</data>
+</edge>
+<edge source="FZDA11" target="PFRM3">
+  <data key="d0">0.5117</data>
+</edge>
+<edge source="FZDA11" target="BMKS3">
+  <data key="d0">0.51</data>
+</edge>
+<edge source="FZDA11" target="MAXR11">
+  <data key="d0">0.5031</data>
+</edge>
+<edge source="FZDA11" target="CAML3">
+  <data key="d0">0.5012</data>
+</edge>
+<edge source="FZDA11" target="SLCE3">
+  <data key="d0">0.501</data>
+</edge>
+<edge source="FZDA11" target="VSTE3">
+  <data key="d0">0.5003</data>
+</edge>
+<edge source="FZDA11" target="ALUP3">
+  <data key="d0">0.5002</data>
+</edge>
+<edge source="FZDA11" target="AZEV3">
+  <data key="d0">0.5</data>
+</edge>
+<edge source="FZDA11" target="GGRC11">
+  <data key="d0">0.5</data>
+</edge>
+<edge source="FZDA11" target="HCHG11">
+  <data key="d0">0.5</data>
+</edge>
+<edge source="FZDA11" target="UCAS3">
+  <data key="d0">0.5</data>
+</edge>
+<edge source="FZDA11" target="GZIT11">
+  <data key="d0">0.4865</data>
+</edge>
+<edge source="FZDA11" target="FESA4">
+  <data key="d0">0.481</data>
+</edge>
+<edge source="FZDA11" target="CEBR3">
+  <data key="d0">0.4786</data>
+</edge>
+<edge source="FZDA11" target="PQDP11">
+  <data key="d0">0.4698</data>
+</edge>
+<edge source="FZDA11" target="CEOC11">
+  <data key="d0">0.4486</data>
+</edge>
+<edge source="FZDA11" target="TECN3">
+  <data key="d0">0.4366</data>
+</edge>
+<edge source="FZDA11" target="TUPY3">
+  <data key="d0">0.4288</data>
+</edge>
+<edge source="FZDA11" target="AVLL3">
+  <data key="d0">0.4174</data>
+</edge>
+<edge source="GRUL11" target="BEDC39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="GRUL11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HETA4" target="LSAG11">
+  <data key="d0">0.9998</data>
+</edge>
+<edge source="HETA4" target="VGIA11">
+  <data key="d0">0.9706</data>
+</edge>
+<edge source="HETA4" target="MERC4">
+  <data key="d0">0.4403</data>
+</edge>
+<edge source="HGAG11" target="BGIP3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HGAG11" target="PEAB4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HGAG11" target="RCFA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HGAG11" target="BEWH39">
+  <data key="d0">0.9995</data>
+</edge>
+<edge source="HGAG11" target="RBDS11">
+  <data key="d0">0.9289</data>
+</edge>
+<edge source="HGAG11" target="HSAF11">
+  <data key="d0">0.8186</data>
+</edge>
+<edge source="HGAG11" target="PLAS3">
+  <data key="d0">0.815</data>
+</edge>
+<edge source="HGAG11" target="BEES3">
+  <data key="d0">0.7853</data>
+</edge>
+<edge source="HGAG11" target="PMIS11">
+  <data key="d0">0.7685</data>
+</edge>
+<edge source="HGAG11" target="GAME11">
+  <data key="d0">0.7413</data>
+</edge>
+<edge source="HGAG11" target="ARRI11">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="HGAG11" target="RBRD11">
+  <data key="d0">0.7198</data>
+</edge>
+<edge source="HGAG11" target="WPLZ11">
+  <data key="d0">0.659</data>
+</edge>
+<edge source="HGAG11" target="BLCA11">
+  <data key="d0">0.6332</data>
+</edge>
+<edge source="HGAG11" target="JSAF11">
+  <data key="d0">0.6301</data>
+</edge>
+<edge source="HGAG11" target="RBRP11">
+  <data key="d0">0.6212</data>
+</edge>
+<edge source="HGAG11" target="PRSV11">
+  <data key="d0">0.6172</data>
+</edge>
+<edge source="HGAG11" target="APXM11">
+  <data key="d0">0.6102</data>
+</edge>
+<edge source="HGAG11" target="LPSB3">
+  <data key="d0">0.6036</data>
+</edge>
+<edge source="HGAG11" target="TUPY3">
+  <data key="d0">0.5935</data>
+</edge>
+<edge source="HGAG11" target="JURO11">
+  <data key="d0">0.5817</data>
+</edge>
+<edge source="HGAG11" target="WIZC3">
+  <data key="d0">0.5714</data>
+</edge>
+<edge source="HGAG11" target="BLMO11">
+  <data key="d0">0.5703</data>
+</edge>
+<edge source="HGAG11" target="VSHO11">
+  <data key="d0">0.5677</data>
+</edge>
+<edge source="HGAG11" target="RBRL11">
+  <data key="d0">0.5654</data>
+</edge>
+<edge source="HGAG11" target="EGIE3">
+  <data key="d0">0.5519</data>
+</edge>
+<edge source="HGAG11" target="MNDL3">
+  <data key="d0">0.5504</data>
+</edge>
+<edge source="HGAG11" target="GTWR11">
+  <data key="d0">0.5188</data>
+</edge>
+<edge source="HGAG11" target="PLAG11">
+  <data key="d0">0.5116</data>
+</edge>
+<edge source="HGAG11" target="UCAS3">
+  <data key="d0">0.5063</data>
+</edge>
+<edge source="HGAG11" target="BALM4">
+  <data key="d0">0.5049</data>
+</edge>
+<edge source="HGAG11" target="GCRI11">
+  <data key="d0">0.4888</data>
+</edge>
+<edge source="HGAG11" target="BRZP11">
+  <data key="d0">0.4855</data>
+</edge>
+<edge source="HGAG11" target="BEES4">
+  <data key="d0">0.4806</data>
+</edge>
+<edge source="HGAG11" target="FAED11">
+  <data key="d0">0.4805</data>
+</edge>
+<edge source="HGAG11" target="MGHT11">
+  <data key="d0">0.4784</data>
+</edge>
+<edge source="HGAG11" target="FPAB11">
+  <data key="d0">0.4738</data>
+</edge>
+<edge source="HGAG11" target="SNFZ11">
+  <data key="d0">0.4576</data>
+</edge>
+<edge source="HGAG11" target="MELK3">
+  <data key="d0">0.4516</data>
+</edge>
+<edge source="HGAG11" target="XPCI11">
+  <data key="d0">0.4466</data>
+</edge>
+<edge source="HGAG11" target="BLMG11">
+  <data key="d0">0.4423</data>
+</edge>
+<edge source="HGAG11" target="VPPR11">
+  <data key="d0">0.437</data>
+</edge>
+<edge source="HGAG11" target="EQIR11">
+  <data key="d0">0.4366</data>
+</edge>
+<edge source="HGAG11" target="MTSA4">
+  <data key="d0">0.4269</data>
+</edge>
+<edge source="HGAG11" target="CRFF11">
+  <data key="d0">0.4076</data>
+</edge>
+<edge source="MERC4" target="VGIA11">
+  <data key="d0">0.971</data>
+</edge>
+<edge source="MERC4" target="LSAG11">
+  <data key="d0">0.713</data>
+</edge>
+<edge source="NORD3" target="AAZQ11">
+  <data key="d0">0.723</data>
+</edge>
+<edge source="PATI4" target="BFAV39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="PATI4" target="AAZQ11">
+  <data key="d0">0.9991</data>
+</edge>
+<edge source="PATI4" target="JGPX11">
+  <data key="d0">0.9552</data>
+</edge>
+<edge source="PATI4" target="GCRA11">
+  <data key="d0">0.7263</data>
+</edge>
+<edge source="PEAB3" target="PEAB4">
+  <data key="d0">0.8322</data>
+</edge>
+<edge source="PRSN11" target="SNFZ11">
+  <data key="d0">0.9025</data>
+</edge>
+<edge source="PSVM11" target="BRFT11">
+  <data key="d0">0.9976</data>
+</edge>
+<edge source="PSVM11" target="GCRA11">
+  <data key="d0">0.9848</data>
+</edge>
+<edge source="RBDS11" target="RURA11">
+  <data key="d0">0.5855</data>
+</edge>
+<edge source="SAPR11" target="TXRX3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="SAPR11" target="SAPR4">
+  <data key="d0">0.9556</data>
+</edge>
+<edge source="SAPR11" target="SAPR3">
+  <data key="d0">0.8516</data>
+</edge>
+<edge source="SAPR3" target="SAPR4">
+  <data key="d0">0.736</data>
+</edge>
+<edge source="SOND5" target="BEMV39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="SOND5" target="BLUR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="SOND5" target="BSRE39">
+  <data key="d0">0.9765</data>
+</edge>
+<edge source="SOND5" target="BRKM6">
+  <data key="d0">0.9671</data>
+</edge>
+<edge source="SOND5" target="CORN11">
+  <data key="d0">0.737</data>
+</edge>
+<edge source="SOND5" target="BLPX39">
+  <data key="d0">0.7035</data>
+</edge>
+<edge source="SOND5" target="HBTS5">
+  <data key="d0">0.6644</data>
+</edge>
+<edge source="SOND5" target="BBOI11">
+  <data key="d0">0.6216</data>
+</edge>
+<edge source="SOND5" target="BIYE39">
+  <data key="d0">0.6097</data>
+</edge>
+<edge source="SOND5" target="BLPA39">
+  <data key="d0">0.5573</data>
+</edge>
+<edge source="SOND5" target="PRNR3">
+  <data key="d0">0.5438</data>
+</edge>
+<edge source="SOND5" target="WHGR11">
+  <data key="d0">0.5394</data>
+</edge>
+<edge source="SOND5" target="GLOG11">
+  <data key="d0">0.5166</data>
+</edge>
+<edge source="SOND5" target="RINV11">
+  <data key="d0">0.4831</data>
+</edge>
+<edge source="SOND5" target="BROF11">
+  <data key="d0">0.4826</data>
+</edge>
+<edge source="SOND5" target="PDTC3">
+  <data key="d0">0.4399</data>
+</edge>
+<edge source="ZIFI11" target="GPAR3">
+  <data key="d0">0.9477</data>
+</edge>
+<edge source="AALR3" target="RURA11">
+  <data key="d0">0.4989</data>
+</edge>
+<edge source="RURA11" target="BIGF39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="RURA11" target="BPVE39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="RURA11" target="DTCY3">
+  <data key="d0">0.961</data>
+</edge>
+<edge source="RURA11" target="KEVE11">
+  <data key="d0">0.7973</data>
+</edge>
+<edge source="RURA11" target="XPCA11">
+  <data key="d0">0.7148</data>
+</edge>
+<edge source="RURA11" target="GTWR11">
+  <data key="d0">0.6479</data>
+</edge>
+<edge source="RURA11" target="TGAR11">
+  <data key="d0">0.6223</data>
+</edge>
+<edge source="RURA11" target="HGCR11">
+  <data key="d0">0.602</data>
+</edge>
+<edge source="RURA11" target="KCRE11">
+  <data key="d0">0.5878</data>
+</edge>
+<edge source="RURA11" target="CACR11">
+  <data key="d0">0.5829</data>
+</edge>
+<edge source="RURA11" target="VRTA11">
+  <data key="d0">0.5822</data>
+</edge>
+<edge source="RURA11" target="PINE4">
+  <data key="d0">0.5804</data>
+</edge>
+<edge source="RURA11" target="ARRI11">
+  <data key="d0">0.5788</data>
+</edge>
+<edge source="RURA11" target="MANA11">
+  <data key="d0">0.5765</data>
+</edge>
+<edge source="RURA11" target="VGHF11">
+  <data key="d0">0.5549</data>
+</edge>
+<edge source="RURA11" target="VVRI11">
+  <data key="d0">0.5537</data>
+</edge>
+<edge source="RURA11" target="BODB11">
+  <data key="d0">0.5532</data>
+</edge>
+<edge source="RURA11" target="HTMX11">
+  <data key="d0">0.5506</data>
+</edge>
+<edge source="RURA11" target="ALPK3">
+  <data key="d0">0.5498</data>
+</edge>
+<edge source="RURA11" target="RZTR11">
+  <data key="d0">0.4895</data>
+</edge>
+<edge source="RURA11" target="VCRI11">
+  <data key="d0">0.4798</data>
+</edge>
+<edge source="RURA11" target="JPPA11">
+  <data key="d0">0.4534</data>
+</edge>
+<edge source="RURA11" target="VINO11">
+  <data key="d0">0.451</data>
+</edge>
+<edge source="RURA11" target="BBFO11">
+  <data key="d0">0.4421</data>
+</edge>
+<edge source="RURA11" target="IFRA11">
+  <data key="d0">0.4287</data>
+</edge>
+<edge source="RURA11" target="WPLZ11">
+  <data key="d0">0.4159</data>
+</edge>
+<edge source="RURA11" target="EQIR11">
+  <data key="d0">0.4154</data>
+</edge>
+<edge source="RURA11" target="KNSC11">
+  <data key="d0">0.4145</data>
+</edge>
+<edge source="RURA11" target="HSAF11">
+  <data key="d0">0.4122</data>
+</edge>
+<edge source="RURA11" target="HAAA11">
+  <data key="d0">0.4008</data>
+</edge>
+<edge source="RURA11" target="RBRL11">
+  <data key="d0">0.4004</data>
+</edge>
+<edge source="AAZQ11" target="BDRI39">
+  <data key="d0">0.993</data>
+</edge>
+<edge source="AAZQ11" target="RELG11">
+  <data key="d0">0.4595</data>
+</edge>
+<edge source="ATSA11" target="XPCA11">
+  <data key="d0">0.4862</data>
+</edge>
+<edge source="BALM3" target="AGRX11">
+  <data key="d0">0.9868</data>
+</edge>
+<edge source="BALM3" target="CRAA11">
+  <data key="d0">0.8234</data>
+</edge>
+<edge source="BCLO39" target="DRIT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BCLO39" target="MAPT4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BCLO39" target="AHEB3">
+  <data key="d0">0.9415</data>
+</edge>
+<edge source="BCLO39" target="BBUG39">
+  <data key="d0">0.8649</data>
+</edge>
+<edge source="BCLO39" target="BFNX39">
+  <data key="d0">0.7891</data>
+</edge>
+<edge source="BCLO39" target="RZAG11">
+  <data key="d0">0.7887</data>
+</edge>
+<edge source="BCLO39" target="JOGO11">
+  <data key="d0">0.6851</data>
+</edge>
+<edge source="BDRI39" target="JGPX11">
+  <data key="d0">0.974</data>
+</edge>
+<edge source="BDRI39" target="BFAV39">
+  <data key="d0">0.8595</data>
+</edge>
+<edge source="BDRI39" target="BOTZ39">
+  <data key="d0">0.847</data>
+</edge>
+<edge source="BDRI39" target="BIWM39">
+  <data key="d0">0.765</data>
+</edge>
+<edge source="BDRI39" target="BEFG39">
+  <data key="d0">0.7299</data>
+</edge>
+<edge source="BDRI39" target="BLBT39">
+  <data key="d0">0.6859</data>
+</edge>
+<edge source="BDRI39" target="BEFA39">
+  <data key="d0">0.6797</data>
+</edge>
+<edge source="BDRI39" target="BEFV39">
+  <data key="d0">0.6768</data>
+</edge>
+<edge source="BDRI39" target="YDRO11">
+  <data key="d0">0.6544</data>
+</edge>
+<edge source="BDRI39" target="BEWY39">
+  <data key="d0">0.6522</data>
+</edge>
+<edge source="BDRI39" target="KNDI11">
+  <data key="d0">0.6383</data>
+</edge>
+<edge source="BDRI39" target="BIEM39">
+  <data key="d0">0.6335</data>
+</edge>
+<edge source="BDRI39" target="BIYF39">
+  <data key="d0">0.6309</data>
+</edge>
+<edge source="BDRI39" target="BSDV39">
+  <data key="d0">0.6093</data>
+</edge>
+<edge source="BDRI39" target="BEEM39">
+  <data key="d0">0.6025</data>
+</edge>
+<edge source="BDRI39" target="BIHI39">
+  <data key="d0">0.5726</data>
+</edge>
+<edge source="BDRI39" target="BDVD39">
+  <data key="d0">0.5326</data>
+</edge>
+<edge source="BDRI39" target="BIXN39">
+  <data key="d0">0.5175</data>
+</edge>
+<edge source="BDRI39" target="BGRT39">
+  <data key="d0">0.4316</data>
+</edge>
+<edge source="BEFG39" target="BFAV39">
+  <data key="d0">0.9109</data>
+</edge>
+<edge source="BEFG39" target="BEFA39">
+  <data key="d0">0.79</data>
+</edge>
+<edge source="BEFG39" target="BIEV39">
+  <data key="d0">0.74</data>
+</edge>
+<edge source="BEFG39" target="BIEF39">
+  <data key="d0">0.729</data>
+</edge>
+<edge source="BEFG39" target="BEWL39">
+  <data key="d0">0.6288</data>
+</edge>
+<edge source="BEFG39" target="BIXN39">
+  <data key="d0">0.5399</data>
+</edge>
+<edge source="BEFG39" target="BEFV39">
+  <data key="d0">0.5047</data>
+</edge>
+<edge source="BEFG39" target="GOGL35">
+  <data key="d0">0.4236</data>
+</edge>
+<edge source="BEGU39" target="BIWF39">
+  <data key="d0">0.7978</data>
+</edge>
+<edge source="BEGU39" target="BUSM39">
+  <data key="d0">0.79</data>
+</edge>
+<edge source="BEGU39" target="BGWH39">
+  <data key="d0">0.6761</data>
+</edge>
+<edge source="BEGU39" target="BQYL39">
+  <data key="d0">0.6149</data>
+</edge>
+<edge source="BEGU39" target="BDVY39">
+  <data key="d0">0.5598</data>
+</edge>
+<edge source="BGOV39" target="BSUS39">
+  <data key="d0">0.5843</data>
+</edge>
+<edge source="BGOV39" target="USDB11">
+  <data key="d0">0.4315</data>
+</edge>
+<edge source="BGOV39" target="BNDX11">
+  <data key="d0">0.427</data>
+</edge>
+<edge source="BINC11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIWF39" target="CRPG3">
+  <data key="d0">0.9953</data>
+</edge>
+<edge source="BIWF39" target="KOPA11">
+  <data key="d0">0.8736</data>
+</edge>
+<edge source="BIWF39" target="BUSM39">
+  <data key="d0">0.6586</data>
+</edge>
+<edge source="BIWF39" target="BGWH39">
+  <data key="d0">0.618</data>
+</edge>
+<edge source="BIWF39" target="BIVE39">
+  <data key="d0">0.5318</data>
+</edge>
+<edge source="BIWF39" target="BQYL39">
+  <data key="d0">0.5249</data>
+</edge>
+<edge source="BIWF39" target="BEWT39">
+  <data key="d0">0.5083</data>
+</edge>
+<edge source="BIWF39" target="SNFZ11">
+  <data key="d0">0.4851</data>
+</edge>
+<edge source="BIYT39" target="BSUS39">
+  <data key="d0">0.751</data>
+</edge>
+<edge source="BODB11" target="CPTI11">
+  <data key="d0">0.4182</data>
+</edge>
+<edge source="BXTC39" target="VCRA11">
+  <data key="d0">0.9777</data>
+</edge>
+<edge source="CDII11" target="SNFZ11">
+  <data key="d0">0.5366</data>
+</edge>
+<edge source="CRPG6" target="TXRX3">
+  <data key="d0">0.8377</data>
+</edge>
+<edge source="CRPG6" target="CRPG5">
+  <data key="d0">0.7113</data>
+</edge>
+<edge source="HFOF11" target="TXRX3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HFOF11" target="HLOG11">
+  <data key="d0">0.9821</data>
+</edge>
+<edge source="HFOF11" target="HGBS11">
+  <data key="d0">0.7032</data>
+</edge>
+<edge source="HSML11" target="VISC11">
+  <data key="d0">0.5871</data>
+</edge>
+<edge source="HSML11" target="PMLL11">
+  <data key="d0">0.5859</data>
+</edge>
+<edge source="HSML11" target="XPML11">
+  <data key="d0">0.5444</data>
+</edge>
+<edge source="HSML11" target="HGFF11">
+  <data key="d0">0.4359</data>
+</edge>
+<edge source="HSML11" target="KFOF11">
+  <data key="d0">0.416</data>
+</edge>
+<edge source="INLG11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="ITIP11" target="CRPG3">
+  <data key="d0">0.4627</data>
+</edge>
+<edge source="KISU11" target="RZAG11">
+  <data key="d0">0.5889</data>
+</edge>
+<edge source="KISU11" target="VCRA11">
+  <data key="d0">0.4386</data>
+</edge>
+<edge source="KNCR11" target="RZAG11">
+  <data key="d0">0.561</data>
+</edge>
+<edge source="KNCR11" target="VCRA11">
+  <data key="d0">0.4449</data>
+</edge>
+<edge source="KNHF11" target="CRPG3">
+  <data key="d0">0.9562</data>
+</edge>
+<edge source="KNHF11" target="ICRI11">
+  <data key="d0">0.4484</data>
+</edge>
+<edge source="MANA11" target="XPCA11">
+  <data key="d0">0.6695</data>
+</edge>
+<edge source="MAPT4" target="RZAG11">
+  <data key="d0">0.4579</data>
+</edge>
+<edge source="OUJP11" target="TXRX3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="OUJP11" target="PMLL11">
+  <data key="d0">0.4851</data>
+</edge>
+<edge source="PLCA11" target="AHEB3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="PLCA11" target="BIGF39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="PLCA11" target="BVLU39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="PLCA11" target="BCHQ39">
+  <data key="d0">0.986</data>
+</edge>
+<edge source="PLCA11" target="IGTI4">
+  <data key="d0">0.7969</data>
+</edge>
+<edge source="PLCA11" target="VILG11">
+  <data key="d0">0.5297</data>
+</edge>
+<edge source="PLCA11" target="RBIR11">
+  <data key="d0">0.4345</data>
+</edge>
+<edge source="PLCA11" target="CXTL11">
+  <data key="d0">0.4315</data>
+</edge>
+<edge source="PLCA11" target="SHPH11">
+  <data key="d0">0.4181</data>
+</edge>
+<edge source="PMLL11" target="TXRX3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="PMLL11" target="VISC11">
+  <data key="d0">0.6464</data>
+</edge>
+<edge source="PMLL11" target="XPML11">
+  <data key="d0">0.5902</data>
+</edge>
+<edge source="PMLL11" target="PLCR11">
+  <data key="d0">0.5736</data>
+</edge>
+<edge source="PMLL11" target="BTLG11">
+  <data key="d0">0.5064</data>
+</edge>
+<edge source="PMLL11" target="XPLG11">
+  <data key="d0">0.4919</data>
+</edge>
+<edge source="PMLL11" target="HGRU11">
+  <data key="d0">0.482</data>
+</edge>
+<edge source="PMLL11" target="HGFF11">
+  <data key="d0">0.4669</data>
+</edge>
+<edge source="PMLL11" target="RFOF11">
+  <data key="d0">0.4605</data>
+</edge>
+<edge source="PMLL11" target="BRCO11">
+  <data key="d0">0.4484</data>
+</edge>
+<edge source="PMLL11" target="CPFF11">
+  <data key="d0">0.4258</data>
+</edge>
+<edge source="PMLL11" target="SPTW11">
+  <data key="d0">0.4006</data>
+</edge>
+<edge source="RBHG11" target="XPCA11">
+  <data key="d0">0.6024</data>
+</edge>
+<edge source="RBHG11" target="KNCA11">
+  <data key="d0">0.5007</data>
+</edge>
+<edge source="RZAG11" target="AHEB3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="RZAG11" target="BIGF39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="RZAG11" target="AIEC11">
+  <data key="d0">0.7535</data>
+</edge>
+<edge source="RZAG11" target="VTLT11">
+  <data key="d0">0.6905</data>
+</edge>
+<edge source="RZAG11" target="MFII11">
+  <data key="d0">0.6431</data>
+</edge>
+<edge source="RZAG11" target="NEWL11">
+  <data key="d0">0.6354</data>
+</edge>
+<edge source="RZAG11" target="KNHY11">
+  <data key="d0">0.5565</data>
+</edge>
+<edge source="RZAG11" target="CYCR11">
+  <data key="d0">0.5148</data>
+</edge>
+<edge source="RZAG11" target="ITIT11">
+  <data key="d0">0.514</data>
+</edge>
+<edge source="RZAG11" target="HABT11">
+  <data key="d0">0.4939</data>
+</edge>
+<edge source="RZAG11" target="LIFE11">
+  <data key="d0">0.4847</data>
+</edge>
+<edge source="RZAG11" target="VCRA11">
+  <data key="d0">0.4609</data>
+</edge>
+<edge source="RZAG11" target="RBHY11">
+  <data key="d0">0.4438</data>
+</edge>
+<edge source="RZAG11" target="BCIA11">
+  <data key="d0">0.4024</data>
+</edge>
+<edge source="VVRI11" target="BTAG11">
+  <data key="d0">0.5726</data>
+</edge>
+<edge source="XFIX11" target="XPCA11">
+  <data key="d0">0.648</data>
+</edge>
+<edge source="XFIX11" target="KNCA11">
+  <data key="d0">0.5119</data>
+</edge>
+<edge source="XPCA11" target="BIGF39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="XPCA11" target="BPVE39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="XPCA11" target="VGHF11">
+  <data key="d0">0.6017</data>
+</edge>
+<edge source="XPCA11" target="JPPA11">
+  <data key="d0">0.5882</data>
+</edge>
+<edge source="XPCA11" target="KNCA11">
+  <data key="d0">0.5733</data>
+</edge>
+<edge source="XPCA11" target="KNSC11">
+  <data key="d0">0.5695</data>
+</edge>
+<edge source="XPCA11" target="XPIE11">
+  <data key="d0">0.55</data>
+</edge>
+<edge source="XPCA11" target="KDIF11">
+  <data key="d0">0.495</data>
+</edge>
+<edge source="XPCA11" target="MCCI11">
+  <data key="d0">0.4949</data>
+</edge>
+<edge source="XPCA11" target="RPRI11">
+  <data key="d0">0.4718</data>
+</edge>
+<edge source="XPCA11" target="APTO11">
+  <data key="d0">0.4439</data>
+</edge>
+<edge source="XPLG11" target="TXRX3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="XPLG11" target="PLCR11">
+  <data key="d0">0.5217</data>
+</edge>
+<edge source="XPLG11" target="VISC11">
+  <data key="d0">0.4733</data>
+</edge>
+<edge source="XPLG11" target="HGLG11">
+  <data key="d0">0.4678</data>
+</edge>
+<edge source="XPLG11" target="XPML11">
+  <data key="d0">0.4435</data>
+</edge>
+<edge source="XPLG11" target="KNRI11">
+  <data key="d0">0.412</data>
+</edge>
+<edge source="ABCB4" target="BOVB11">
+  <data key="d0">0.6299</data>
+</edge>
+<edge source="ABCB4" target="BOVV11">
+  <data key="d0">0.6127</data>
+</edge>
+<edge source="ABCB4" target="RAIL3">
+  <data key="d0">0.4251</data>
+</edge>
+<edge source="ABCB4" target="AXIA3">
+  <data key="d0">0.4001</data>
+</edge>
+<edge source="AGRI11" target="BREW11">
+  <data key="d0">0.7937</data>
+</edge>
+<edge source="AGRI11" target="BCIC11">
+  <data key="d0">0.773</data>
+</edge>
+<edge source="AGRI11" target="SCVB11">
+  <data key="d0">0.7599</data>
+</edge>
+<edge source="AGRI11" target="PGMN3">
+  <data key="d0">0.4652</data>
+</edge>
+<edge source="ALOS3" target="TIRB11">
+  <data key="d0">0.7365</data>
+</edge>
+<edge source="ALOS3" target="NDIV11">
+  <data key="d0">0.6491</data>
+</edge>
+<edge source="AXIA3" target="AXIA6">
+  <data key="d0">0.9271</data>
+</edge>
+<edge source="AXIA3" target="BOVB11">
+  <data key="d0">0.6749</data>
+</edge>
+<edge source="AXIA3" target="BOVV11">
+  <data key="d0">0.6162</data>
+</edge>
+<edge source="B3BR11" target="IBOB11">
+  <data key="d0">0.8729</data>
+</edge>
+<edge source="B3BR11" target="BOVA11">
+  <data key="d0">0.8694</data>
+</edge>
+<edge source="B3BR11" target="BBDC3">
+  <data key="d0">0.6913</data>
+</edge>
+<edge source="B3BR11" target="XPBR31">
+  <data key="d0">0.5943</data>
+</edge>
+<edge source="BBAS3" target="SPUB11">
+  <data key="d0">0.696</data>
+</edge>
+<edge source="BBAS3" target="SPVT11">
+  <data key="d0">0.4849</data>
+</edge>
+<edge source="BBDC3" target="BBDC4">
+  <data key="d0">0.9543</data>
+</edge>
+<edge source="BBDC3" target="BOVA11">
+  <data key="d0">0.7482</data>
+</edge>
+<edge source="BBDC4" target="BOVA11">
+  <data key="d0">0.7426</data>
+</edge>
+<edge source="BBDC4" target="ITSA4">
+  <data key="d0">0.7409</data>
+</edge>
+<edge source="BBDC4" target="ITUB4">
+  <data key="d0">0.7213</data>
+</edge>
+<edge source="BBOV11" target="BOVB11">
+  <data key="d0">0.9609</data>
+</edge>
+<edge source="BBOV11" target="BOVX11">
+  <data key="d0">0.9573</data>
+</edge>
+<edge source="BBOV11" target="PIBB11">
+  <data key="d0">0.9446</data>
+</edge>
+<edge source="BBSD11" target="DIVO11">
+  <data key="d0">0.8331</data>
+</edge>
+<edge source="BBSD11" target="BOVX11">
+  <data key="d0">0.8043</data>
+</edge>
+<edge source="BBSD11" target="CMIG4">
+  <data key="d0">0.6101</data>
+</edge>
+<edge source="BBSD11" target="CMIG3">
+  <data key="d0">0.5637</data>
+</edge>
+<edge source="BBSD11" target="BBSE3">
+  <data key="d0">0.5526</data>
+</edge>
+<edge source="BCIC11" target="BREW11">
+  <data key="d0">0.9866</data>
+</edge>
+<edge source="BCIC11" target="ELAS11">
+  <data key="d0">0.9415</data>
+</edge>
+<edge source="BCIC11" target="SPVT11">
+  <data key="d0">0.9404</data>
+</edge>
+<edge source="BCIC11" target="ISUS11">
+  <data key="d0">0.9332</data>
+</edge>
+<edge source="BCIC11" target="SCVB11">
+  <data key="d0">0.9133</data>
+</edge>
+<edge source="BCIC11" target="FIND11">
+  <data key="d0">0.8213</data>
+</edge>
+<edge source="BCIC11" target="VBBR3">
+  <data key="d0">0.6064</data>
+</edge>
+<edge source="BCIC11" target="TOTS3">
+  <data key="d0">0.5668</data>
+</edge>
+<edge source="BCIC11" target="OPCT3">
+  <data key="d0">0.434</data>
+</edge>
+<edge source="BDEF11" target="USIM6">
+  <data key="d0">0.9974</data>
+</edge>
+<edge source="BDEF11" target="BREW11">
+  <data key="d0">0.9353</data>
+</edge>
+<edge source="BDEF11" target="ISUS11">
+  <data key="d0">0.9152</data>
+</edge>
+<edge source="BDEF11" target="SPVT11">
+  <data key="d0">0.8855</data>
+</edge>
+<edge source="BDEF11" target="RDOR3">
+  <data key="d0">0.6553</data>
+</edge>
+<edge source="BDEF11" target="SPUB11">
+  <data key="d0">0.6526</data>
+</edge>
+<edge source="BDEF11" target="AURE3">
+  <data key="d0">0.4892</data>
+</edge>
+<edge source="BDOM11" target="HIGH11">
+  <data key="d0">0.8899</data>
+</edge>
+<edge source="BDOM11" target="SMAL11">
+  <data key="d0">0.8863</data>
+</edge>
+<edge source="BDOM11" target="SMAB11">
+  <data key="d0">0.8046</data>
+</edge>
+<edge source="BDOM11" target="BPAC11">
+  <data key="d0">0.7599</data>
+</edge>
+<edge source="BDOM11" target="B3SA3">
+  <data key="d0">0.7469</data>
+</edge>
+<edge source="BDOM11" target="INBR32">
+  <data key="d0">0.5898</data>
+</edge>
+<edge source="BDOM11" target="BPAC5">
+  <data key="d0">0.5771</data>
+</edge>
+<edge source="BDOM11" target="BPAC3">
+  <data key="d0">0.5329</data>
+</edge>
+<edge source="BDOM11" target="CAML3">
+  <data key="d0">0.5086</data>
+</edge>
+<edge source="BDOM11" target="RADL3">
+  <data key="d0">0.4465</data>
+</edge>
+<edge source="BDOM11" target="RAPT3">
+  <data key="d0">0.4281</data>
+</edge>
+<edge source="BDOM11" target="SHUL4">
+  <data key="d0">0.415</data>
+</edge>
+<edge source="BMGB4" target="SMAC11">
+  <data key="d0">0.5213</data>
+</edge>
+<edge source="BMGB4" target="BRSR6">
+  <data key="d0">0.4151</data>
+</edge>
+<edge source="BMMT11" target="BREW11">
+  <data key="d0">0.9221</data>
+</edge>
+<edge source="BMMT11" target="SPVT11">
+  <data key="d0">0.9215</data>
+</edge>
+<edge source="BMMT11" target="ELAS11">
+  <data key="d0">0.8982</data>
+</edge>
+<edge source="BMMT11" target="GMAT3">
+  <data key="d0">0.5668</data>
+</edge>
+<edge source="BOVA11" target="BOVB11">
+  <data key="d0">0.9898</data>
+</edge>
+<edge source="BOVA11" target="BOVV11">
+  <data key="d0">0.9874</data>
+</edge>
+<edge source="BOVA11" target="BOVX11">
+  <data key="d0">0.9809</data>
+</edge>
+<edge source="BOVA11" target="BOVS11">
+  <data key="d0">0.9494</data>
+</edge>
+<edge source="BOVA11" target="IBOB11">
+  <data key="d0">0.9427</data>
+</edge>
+<edge source="BOVA11" target="LVOL11">
+  <data key="d0">0.9084</data>
+</edge>
+<edge source="BOVA11" target="ESGB11">
+  <data key="d0">0.8381</data>
+</edge>
+<edge source="BOVA11" target="ITSA4">
+  <data key="d0">0.763</data>
+</edge>
+<edge source="BOVA11" target="PETR4">
+  <data key="d0">0.7103</data>
+</edge>
+<edge source="BOVA11" target="PETR3">
+  <data key="d0">0.7093</data>
+</edge>
+<edge source="BOVA11" target="ITUB3">
+  <data key="d0">0.6544</data>
+</edge>
+<edge source="BOVA11" target="HBOR3">
+  <data key="d0">0.4099</data>
+</edge>
+<edge source="BOVB11" target="BOVV11">
+  <data key="d0">0.995</data>
+</edge>
+<edge source="BOVB11" target="BOVX11">
+  <data key="d0">0.9929</data>
+</edge>
+<edge source="BOVB11" target="PIBB11">
+  <data key="d0">0.988</data>
+</edge>
+<edge source="BOVB11" target="XBOV11">
+  <data key="d0">0.9866</data>
+</edge>
+<edge source="BOVB11" target="BOVS11">
+  <data key="d0">0.9613</data>
+</edge>
+<edge source="BOVB11" target="BRAX11">
+  <data key="d0">0.9592</data>
+</edge>
+<edge source="BOVB11" target="IBOB11">
+  <data key="d0">0.9555</data>
+</edge>
+<edge source="BOVB11" target="GOVE11">
+  <data key="d0">0.9074</data>
+</edge>
+<edge source="BOVB11" target="ECOO11">
+  <data key="d0">0.8882</data>
+</edge>
+<edge source="BOVB11" target="BEWZ39">
+  <data key="d0">0.7894</data>
+</edge>
+<edge source="BOVB11" target="BXPO11">
+  <data key="d0">0.771</data>
+</edge>
+<edge source="BOVB11" target="MATB11">
+  <data key="d0">0.6999</data>
+</edge>
+<edge source="BOVB11" target="CMDB11">
+  <data key="d0">0.6657</data>
+</edge>
+<edge source="BOVB11" target="RAIL3">
+  <data key="d0">0.6589</data>
+</edge>
+<edge source="BOVB11" target="AXIA6">
+  <data key="d0">0.6526</data>
+</edge>
+<edge source="BOVB11" target="VALE3">
+  <data key="d0">0.6098</data>
+</edge>
+<edge source="BOVB11" target="ABEV3">
+  <data key="d0">0.5757</data>
+</edge>
+<edge source="BOVB11" target="EMBJ3">
+  <data key="d0">0.5113</data>
+</edge>
+<edge source="BOVB11" target="BRAP4">
+  <data key="d0">0.4337</data>
+</edge>
+<edge source="BOVB11" target="MRFG3">
+  <data key="d0">0.4318</data>
+</edge>
+<edge source="BOVB11" target="CBAV3">
+  <data key="d0">0.4239</data>
+</edge>
+<edge source="BOVS11" target="BOVV11">
+  <data key="d0">0.956</data>
+</edge>
+<edge source="BOVS11" target="BXPO11">
+  <data key="d0">0.751</data>
+</edge>
+<edge source="BOVV11" target="PIBB11">
+  <data key="d0">0.9856</data>
+</edge>
+<edge source="BOVV11" target="BOVX11">
+  <data key="d0">0.9853</data>
+</edge>
+<edge source="BOVV11" target="XBOV11">
+  <data key="d0">0.9808</data>
+</edge>
+<edge source="BOVV11" target="BRAX11">
+  <data key="d0">0.9473</data>
+</edge>
+<edge source="BOVV11" target="ECOO11">
+  <data key="d0">0.8531</data>
+</edge>
+<edge source="BOVV11" target="BXPO11">
+  <data key="d0">0.7684</data>
+</edge>
+<edge source="BOVV11" target="CMDB11">
+  <data key="d0">0.6652</data>
+</edge>
+<edge source="BOVV11" target="RAIL3">
+  <data key="d0">0.6428</data>
+</edge>
+<edge source="BOVV11" target="AXIA6">
+  <data key="d0">0.6022</data>
+</edge>
+<edge source="BOVV11" target="ABEV3">
+  <data key="d0">0.5599</data>
+</edge>
+<edge source="BOVV11" target="EMBJ3">
+  <data key="d0">0.4646</data>
+</edge>
+<edge source="BOVV11" target="WEGE3">
+  <data key="d0">0.4069</data>
+</edge>
+<edge source="BOVX11" target="PIBB11">
+  <data key="d0">0.9784</data>
+</edge>
+<edge source="BOVX11" target="IBOB11">
+  <data key="d0">0.9491</data>
+</edge>
+<edge source="BOVX11" target="GOVE11">
+  <data key="d0">0.9312</data>
+</edge>
+<edge source="BOVX11" target="LVOL11">
+  <data key="d0">0.9089</data>
+</edge>
+<edge source="BOVX11" target="DIVO11">
+  <data key="d0">0.8918</data>
+</edge>
+<edge source="BRAX11" target="XBOV11">
+  <data key="d0">0.9236</data>
+</edge>
+<edge source="BRAX11" target="ECOO11">
+  <data key="d0">0.8428</data>
+</edge>
+<edge source="BREW11" target="ISUS11">
+  <data key="d0">0.9553</data>
+</edge>
+<edge source="BREW11" target="SPVT11">
+  <data key="d0">0.9481</data>
+</edge>
+<edge source="BREW11" target="ELAS11">
+  <data key="d0">0.9436</data>
+</edge>
+<edge source="BREW11" target="SCVB11">
+  <data key="d0">0.9201</data>
+</edge>
+<edge source="BREW11" target="SPUB11">
+  <data key="d0">0.69</data>
+</edge>
+<edge source="BREW11" target="RDOR3">
+  <data key="d0">0.6553</data>
+</edge>
+<edge source="BREW11" target="GMAT3">
+  <data key="d0">0.6543</data>
+</edge>
+<edge source="BREW11" target="CURY3">
+  <data key="d0">0.6411</data>
+</edge>
+<edge source="BREW11" target="PGMN3">
+  <data key="d0">0.6039</data>
+</edge>
+<edge source="BREW11" target="ORVR3">
+  <data key="d0">0.6038</data>
+</edge>
+<edge source="BREW11" target="TOTS3">
+  <data key="d0">0.5782</data>
+</edge>
+<edge source="BREW11" target="PETZ3">
+  <data key="d0">0.5172</data>
+</edge>
+<edge source="BRSR6" target="SMAC11">
+  <data key="d0">0.6436</data>
+</edge>
+<edge source="CEAB3" target="SMAC11">
+  <data key="d0">0.6685</data>
+</edge>
+<edge source="CEAB3" target="CVCB3">
+  <data key="d0">0.5491</data>
+</edge>
+<edge source="CEAB3" target="RENT3">
+  <data key="d0">0.5128</data>
+</edge>
+<edge source="CMIG4" target="CMIG3">
+  <data key="d0">0.8701</data>
+</edge>
+<edge source="CMIG4" target="DIVO11">
+  <data key="d0">0.6617</data>
+</edge>
+<edge source="COGN3" target="SMAL11">
+  <data key="d0">0.7125</data>
+</edge>
+<edge source="COGN3" target="YDUQ3">
+  <data key="d0">0.6991</data>
+</edge>
+<edge source="COGN3" target="TRIG11">
+  <data key="d0">0.6334</data>
+</edge>
+<edge source="CVCB3" target="SMAC11">
+  <data key="d0">0.7168</data>
+</edge>
+<edge source="CVCB3" target="QUAL3">
+  <data key="d0">0.4184</data>
+</edge>
+<edge source="CYRE3" target="SMAC11">
+  <data key="d0">0.8168</data>
+</edge>
+<edge source="CYRE3" target="SMAL11">
+  <data key="d0">0.7604</data>
+</edge>
+<edge source="CYRE3" target="HIGH11">
+  <data key="d0">0.7553</data>
+</edge>
+<edge source="CYRE3" target="EZTC3">
+  <data key="d0">0.7491</data>
+</edge>
+<edge source="CYRE3" target="EVEN3">
+  <data key="d0">0.6835</data>
+</edge>
+<edge source="CYRE3" target="MTRE3">
+  <data key="d0">0.6219</data>
+</edge>
+<edge source="CYRE3" target="DIRR3">
+  <data key="d0">0.5022</data>
+</edge>
+<edge source="DIVD11" target="BEDC39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="DIVD11" target="CRPG3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="DIVD11" target="HIGH11">
+  <data key="d0">0.772</data>
+</edge>
+<edge source="DIVD11" target="SOJA3">
+  <data key="d0">0.4165</data>
+</edge>
+<edge source="DIVO11" target="LVOL11">
+  <data key="d0">0.8894</data>
+</edge>
+<edge source="DIVO11" target="CMIG3">
+  <data key="d0">0.6091</data>
+</edge>
+<edge source="DIVO11" target="NEOE3">
+  <data key="d0">0.6083</data>
+</edge>
+<edge source="DIVO11" target="BBSE3">
+  <data key="d0">0.589</data>
+</edge>
+<edge source="DIVO11" target="ENGI11">
+  <data key="d0">0.5657</data>
+</edge>
+<edge source="ECOO11" target="RAIL3">
+  <data key="d0">0.5874</data>
+</edge>
+<edge source="ECOR3" target="SMAC11">
+  <data key="d0">0.7416</data>
+</edge>
+<edge source="ECOR3" target="HIGH11">
+  <data key="d0">0.7374</data>
+</edge>
+<edge source="ECOR3" target="MOTV3">
+  <data key="d0">0.7088</data>
+</edge>
+<edge source="ECOR3" target="ESGB11">
+  <data key="d0">0.6873</data>
+</edge>
+<edge source="ELAS11" target="SPVT11">
+  <data key="d0">0.9552</data>
+</edge>
+<edge source="ELAS11" target="FIND11">
+  <data key="d0">0.8657</data>
+</edge>
+<edge source="ELAS11" target="SANB11">
+  <data key="d0">0.6451</data>
+</edge>
+<edge source="ELAS11" target="TOTS3">
+  <data key="d0">0.614</data>
+</edge>
+<edge source="ELAS11" target="SANB4">
+  <data key="d0">0.5832</data>
+</edge>
+<edge source="ENGI11" target="LVOL11">
+  <data key="d0">0.7764</data>
+</edge>
+<edge source="ENGI11" target="NEOE3">
+  <data key="d0">0.6152</data>
+</edge>
+<edge source="ENGI11" target="ENGI4">
+  <data key="d0">0.6144</data>
+</edge>
+<edge source="ESGB11" target="HIGH11">
+  <data key="d0">0.9498</data>
+</edge>
+<edge source="ESGB11" target="LVOL11">
+  <data key="d0">0.9013</data>
+</edge>
+<edge source="ESGB11" target="SMAC11">
+  <data key="d0">0.8907</data>
+</edge>
+<edge source="ESGB11" target="MULT3">
+  <data key="d0">0.7038</data>
+</edge>
+<edge source="ESGB11" target="HBOR3">
+  <data key="d0">0.6085</data>
+</edge>
+<edge source="ESGB11" target="INTB3">
+  <data key="d0">0.5428</data>
+</edge>
+<edge source="ESGB11" target="FLRY3">
+  <data key="d0">0.5315</data>
+</edge>
+<edge source="ESGB11" target="ALUP11">
+  <data key="d0">0.5236</data>
+</edge>
+<edge source="ESGB11" target="TCSA3">
+  <data key="d0">0.512</data>
+</edge>
+<edge source="ESGB11" target="GRND3">
+  <data key="d0">0.5044</data>
+</edge>
+<edge source="EVEN3" target="SMAC11">
+  <data key="d0">0.7274</data>
+</edge>
+<edge source="EVEN3" target="EZTC3">
+  <data key="d0">0.6358</data>
+</edge>
+<edge source="EVEN3" target="DIRR3">
+  <data key="d0">0.4394</data>
+</edge>
+<edge source="EZTC3" target="SMAC11">
+  <data key="d0">0.7512</data>
+</edge>
+<edge source="EZTC3" target="SMAL11">
+  <data key="d0">0.6842</data>
+</edge>
+<edge source="FIND11" target="SPVT11">
+  <data key="d0">0.8811</data>
+</edge>
+<edge source="FIND11" target="SANB11">
+  <data key="d0">0.7395</data>
+</edge>
+<edge source="FIND11" target="SANB3">
+  <data key="d0">0.627</data>
+</edge>
+<edge source="GOVE11" target="IBOB11">
+  <data key="d0">0.9085</data>
+</edge>
+<edge source="HIGH11" target="BEDC39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HIGH11" target="CRPG3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HIGH11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HIGH11" target="SMAB11">
+  <data key="d0">0.9331</data>
+</edge>
+<edge source="HIGH11" target="SMAL11">
+  <data key="d0">0.922</data>
+</edge>
+<edge source="HIGH11" target="SMAC11">
+  <data key="d0">0.9129</data>
+</edge>
+<edge source="HIGH11" target="LVOL11">
+  <data key="d0">0.8053</data>
+</edge>
+<edge source="HIGH11" target="MGLU3">
+  <data key="d0">0.7888</data>
+</edge>
+<edge source="HIGH11" target="IGTI11">
+  <data key="d0">0.7806</data>
+</edge>
+<edge source="HIGH11" target="SMFT3">
+  <data key="d0">0.7673</data>
+</edge>
+<edge source="HIGH11" target="SIMH3">
+  <data key="d0">0.7475</data>
+</edge>
+<edge source="HIGH11" target="MOTV3">
+  <data key="d0">0.7349</data>
+</edge>
+<edge source="HIGH11" target="LREN3">
+  <data key="d0">0.7328</data>
+</edge>
+<edge source="HIGH11" target="ANIM3">
+  <data key="d0">0.7276</data>
+</edge>
+<edge source="HIGH11" target="CSAN3">
+  <data key="d0">0.7155</data>
+</edge>
+<edge source="HIGH11" target="MOVI3">
+  <data key="d0">0.6861</data>
+</edge>
+<edge source="HIGH11" target="SBFG3">
+  <data key="d0">0.6824</data>
+</edge>
+<edge source="HIGH11" target="ASAI3">
+  <data key="d0">0.6701</data>
+</edge>
+<edge source="HIGH11" target="BPAC11">
+  <data key="d0">0.6683</data>
+</edge>
+<edge source="HIGH11" target="MTRE3">
+  <data key="d0">0.6652</data>
+</edge>
+<edge source="HIGH11" target="MLAS3">
+  <data key="d0">0.6622</data>
+</edge>
+<edge source="HIGH11" target="LJQQ3">
+  <data key="d0">0.654</data>
+</edge>
+<edge source="HIGH11" target="HBRE3">
+  <data key="d0">0.6501</data>
+</edge>
+<edge source="HIGH11" target="CSED3">
+  <data key="d0">0.6468</data>
+</edge>
+<edge source="HIGH11" target="VAMO3">
+  <data key="d0">0.6445</data>
+</edge>
+<edge source="HIGH11" target="TFCO4">
+  <data key="d0">0.6409</data>
+</edge>
+<edge source="HIGH11" target="LWSA3">
+  <data key="d0">0.636</data>
+</edge>
+<edge source="HIGH11" target="MILS3">
+  <data key="d0">0.6318</data>
+</edge>
+<edge source="HIGH11" target="INTB3">
+  <data key="d0">0.6243</data>
+</edge>
+<edge source="HIGH11" target="SEER3">
+  <data key="d0">0.6185</data>
+</edge>
+<edge source="HIGH11" target="AZZA3">
+  <data key="d0">0.6147</data>
+</edge>
+<edge source="HIGH11" target="PLPL3">
+  <data key="d0">0.6115</data>
+</edge>
+<edge source="HIGH11" target="PNVL3">
+  <data key="d0">0.6013</data>
+</edge>
+<edge source="HIGH11" target="ALPA4">
+  <data key="d0">0.5815</data>
+</edge>
+<edge source="HIGH11" target="IGTI3">
+  <data key="d0">0.5698</data>
+</edge>
+<edge source="HIGH11" target="FRAS3">
+  <data key="d0">0.5527</data>
+</edge>
+<edge source="HIGH11" target="JALL3">
+  <data key="d0">0.5411</data>
+</edge>
+<edge source="HIGH11" target="BPAC5">
+  <data key="d0">0.5239</data>
+</edge>
+<edge source="HIGH11" target="RAIZ4">
+  <data key="d0">0.5198</data>
+</edge>
+<edge source="HIGH11" target="FIQE3">
+  <data key="d0">0.5103</data>
+</edge>
+<edge source="HIGH11" target="KEPL3">
+  <data key="d0">0.5025</data>
+</edge>
+<edge source="HIGH11" target="RANI3">
+  <data key="d0">0.4957</data>
+</edge>
+<edge source="HIGH11" target="VITT3">
+  <data key="d0">0.467</data>
+</edge>
+<edge source="HIGH11" target="SOJA3">
+  <data key="d0">0.4508</data>
+</edge>
+<edge source="HIGH11" target="BRBI11">
+  <data key="d0">0.4372</data>
+</edge>
+<edge source="HIGH11" target="DEXP3">
+  <data key="d0">0.4285</data>
+</edge>
+<edge source="HIGH11" target="DASA3">
+  <data key="d0">0.4246</data>
+</edge>
+<edge source="HIGH11" target="PCAR3">
+  <data key="d0">0.4153</data>
+</edge>
+<edge source="HIGH11" target="BEEF3">
+  <data key="d0">0.4067</data>
+</edge>
+<edge source="IBOB11" target="XPBR31">
+  <data key="d0">0.4738</data>
+</edge>
+<edge source="ISUS11" target="SPVT11">
+  <data key="d0">0.9183</data>
+</edge>
+<edge source="ISUS11" target="SCVB11">
+  <data key="d0">0.8885</data>
+</edge>
+<edge source="ISUS11" target="VBBR3">
+  <data key="d0">0.6603</data>
+</edge>
+<edge source="ISUS11" target="CURY3">
+  <data key="d0">0.5947</data>
+</edge>
+<edge source="ISUS11" target="RDOR3">
+  <data key="d0">0.5904</data>
+</edge>
+<edge source="ITSA3" target="ITSA4">
+  <data key="d0">0.8165</data>
+</edge>
+<edge source="ITSA3" target="ITUB4">
+  <data key="d0">0.6645</data>
+</edge>
+<edge source="ITSA3" target="ITUB3">
+  <data key="d0">0.6156</data>
+</edge>
+<edge source="ITSA4" target="ITUB4">
+  <data key="d0">0.8154</data>
+</edge>
+<edge source="ITSA4" target="ITUB3">
+  <data key="d0">0.7518</data>
+</edge>
+<edge source="ITUB3" target="ITUB4">
+  <data key="d0">0.9372</data>
+</edge>
+<edge source="ITUB3" target="PETR4">
+  <data key="d0">0.4288</data>
+</edge>
+<edge source="ITUB3" target="PETR3">
+  <data key="d0">0.4215</data>
+</edge>
+<edge source="LOGG3" target="SMAC11">
+  <data key="d0">0.6296</data>
+</edge>
+<edge source="LOGG3" target="SMAL11">
+  <data key="d0">0.5847</data>
+</edge>
+<edge source="LOGG3" target="VIVA3">
+  <data key="d0">0.5361</data>
+</edge>
+<edge source="LVOL11" target="CRPG3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="LVOL11" target="EQTL3">
+  <data key="d0">0.8111</data>
+</edge>
+<edge source="LVOL11" target="CPLE3">
+  <data key="d0">0.7613</data>
+</edge>
+<edge source="LVOL11" target="TAEE11">
+  <data key="d0">0.6657</data>
+</edge>
+<edge source="LVOL11" target="SBSP3">
+  <data key="d0">0.6356</data>
+</edge>
+<edge source="LVOL11" target="ENGI4">
+  <data key="d0">0.5957</data>
+</edge>
+<edge source="LVOL11" target="INTB3">
+  <data key="d0">0.5957</data>
+</edge>
+<edge source="LVOL11" target="TAEE3">
+  <data key="d0">0.5843</data>
+</edge>
+<edge source="LVOL11" target="TAEE4">
+  <data key="d0">0.5673</data>
+</edge>
+<edge source="LVOL11" target="NEOE3">
+  <data key="d0">0.5329</data>
+</edge>
+<edge source="LVOL11" target="TIMS3">
+  <data key="d0">0.5172</data>
+</edge>
+<edge source="LVOL11" target="FIQE3">
+  <data key="d0">0.4907</data>
+</edge>
+<edge source="LVOL11" target="RANI3">
+  <data key="d0">0.487</data>
+</edge>
+<edge source="LVOL11" target="KEPL3">
+  <data key="d0">0.4702</data>
+</edge>
+<edge source="LVOL11" target="PSSA3">
+  <data key="d0">0.4674</data>
+</edge>
+<edge source="LVOL11" target="ALUP3">
+  <data key="d0">0.4415</data>
+</edge>
+<edge source="LVOL11" target="ARML3">
+  <data key="d0">0.4372</data>
+</edge>
+<edge source="MDNE3" target="SMAC11">
+  <data key="d0">0.6751</data>
+</edge>
+<edge source="MDNE3" target="JHSF3">
+  <data key="d0">0.5736</data>
+</edge>
+<edge source="MDNE3" target="RENT3">
+  <data key="d0">0.5499</data>
+</edge>
+<edge source="MOTV3" target="SMAC11">
+  <data key="d0">0.7265</data>
+</edge>
+<edge source="MOTV3" target="MOVI3">
+  <data key="d0">0.5283</data>
+</edge>
+<edge source="MOVI3" target="SMAC11">
+  <data key="d0">0.7278</data>
+</edge>
+<edge source="MOVI3" target="SBFG3">
+  <data key="d0">0.4871</data>
+</edge>
+<edge source="MRVE3" target="SMAC11">
+  <data key="d0">0.7243</data>
+</edge>
+<edge source="MRVE3" target="TRIG11">
+  <data key="d0">0.6793</data>
+</edge>
+<edge source="MRVE3" target="TEND3">
+  <data key="d0">0.5553</data>
+</edge>
+<edge source="MRVE3" target="TGMA3">
+  <data key="d0">0.4208</data>
+</edge>
+<edge source="MTRE3" target="SMAC11">
+  <data key="d0">0.6616</data>
+</edge>
+<edge source="MTRE3" target="MILS3">
+  <data key="d0">0.4461</data>
+</edge>
+<edge source="MYPK3" target="SMAC11">
+  <data key="d0">0.5912</data>
+</edge>
+<edge source="MYPK3" target="RAPT4">
+  <data key="d0">0.5158</data>
+</edge>
+<edge source="NDIV11" target="NSDV11">
+  <data key="d0">0.946</data>
+</edge>
+<edge source="NDIV11" target="TIRB11">
+  <data key="d0">0.6956</data>
+</edge>
+<edge source="NSDV11" target="TIRB11">
+  <data key="d0">0.7024</data>
+</edge>
+<edge source="NSDV11" target="ISAE4">
+  <data key="d0">0.6813</data>
+</edge>
+<edge source="PIBB11" target="XBOV11">
+  <data key="d0">0.9647</data>
+</edge>
+<edge source="PIBB11" target="BEWZ39">
+  <data key="d0">0.7922</data>
+</edge>
+<edge source="PIBB11" target="BILF39">
+  <data key="d0">0.6412</data>
+</edge>
+<edge source="RAPT4" target="SMAC11">
+  <data key="d0">0.7138</data>
+</edge>
+<edge source="RAPT4" target="JHSF3">
+  <data key="d0">0.4606</data>
+</edge>
+<edge source="SANB11" target="SANB3">
+  <data key="d0">0.7988</data>
+</edge>
+<edge source="SANB11" target="SANB4">
+  <data key="d0">0.7692</data>
+</edge>
+<edge source="SANB11" target="SPVT11">
+  <data key="d0">0.7066</data>
+</edge>
+<edge source="SANB3" target="SPVT11">
+  <data key="d0">0.6681</data>
+</edge>
+<edge source="SCVB11" target="CURY3">
+  <data key="d0">0.6642</data>
+</edge>
+<edge source="SCVB11" target="PGMN3">
+  <data key="d0">0.6316</data>
+</edge>
+<edge source="SCVB11" target="VBBR3">
+  <data key="d0">0.6124</data>
+</edge>
+<edge source="SCVB11" target="PETZ3">
+  <data key="d0">0.5737</data>
+</edge>
+<edge source="SCVB11" target="VVEO3">
+  <data key="d0">0.4178</data>
+</edge>
+<edge source="SMAB11" target="SIMH3">
+  <data key="d0">0.6632</data>
+</edge>
+<edge source="SMAB11" target="BPAC11">
+  <data key="d0">0.6238</data>
+</edge>
+<edge source="SMAB11" target="B3SA3">
+  <data key="d0">0.6156</data>
+</edge>
+<edge source="SMAC11" target="SMAL11">
+  <data key="d0">0.9573</data>
+</edge>
+<edge source="SMAC11" target="TRIG11">
+  <data key="d0">0.8911</data>
+</edge>
+<edge source="SMAC11" target="MULT3">
+  <data key="d0">0.7627</data>
+</edge>
+<edge source="SMAC11" target="VIVA3">
+  <data key="d0">0.7454</data>
+</edge>
+<edge source="SMAC11" target="RENT3">
+  <data key="d0">0.7312</data>
+</edge>
+<edge source="SMAC11" target="JHSF3">
+  <data key="d0">0.7268</data>
+</edge>
+<edge source="SMAC11" target="TRIS3">
+  <data key="d0">0.7236</data>
+</edge>
+<edge source="SMAC11" target="GUAR3">
+  <data key="d0">0.7027</data>
+</edge>
+<edge source="SMAC11" target="UGPA3">
+  <data key="d0">0.6961</data>
+</edge>
+<edge source="SMAC11" target="TGMA3">
+  <data key="d0">0.6828</data>
+</edge>
+<edge source="SMAC11" target="SBFG3">
+  <data key="d0">0.6772</data>
+</edge>
+<edge source="SMAC11" target="JSLG3">
+  <data key="d0">0.6614</data>
+</edge>
+<edge source="SMAC11" target="VULC3">
+  <data key="d0">0.6492</data>
+</edge>
+<edge source="SMAC11" target="MILS3">
+  <data key="d0">0.6478</data>
+</edge>
+<edge source="SMAC11" target="LAVV3">
+  <data key="d0">0.6437</data>
+</edge>
+<edge source="SMAC11" target="FLRY3">
+  <data key="d0">0.6323</data>
+</edge>
+<edge source="SMAC11" target="GGPS3">
+  <data key="d0">0.6273</data>
+</edge>
+<edge source="SMAC11" target="MEAL3">
+  <data key="d0">0.6194</data>
+</edge>
+<edge source="SMAC11" target="TEND3">
+  <data key="d0">0.6147</data>
+</edge>
+<edge source="SMAC11" target="POSI3">
+  <data key="d0">0.6145</data>
+</edge>
+<edge source="SMAC11" target="ALUP11">
+  <data key="d0">0.6136</data>
+</edge>
+<edge source="SMAC11" target="QUAL3">
+  <data key="d0">0.6077</data>
+</edge>
+<edge source="SMAC11" target="ALPA4">
+  <data key="d0">0.6058</data>
+</edge>
+<edge source="SMAC11" target="CPFE3">
+  <data key="d0">0.5968</data>
+</edge>
+<edge source="SMAC11" target="POMO4">
+  <data key="d0">0.5937</data>
+</edge>
+<edge source="SMAC11" target="PTBL3">
+  <data key="d0">0.5926</data>
+</edge>
+<edge source="SMAC11" target="BMOB3">
+  <data key="d0">0.5894</data>
+</edge>
+<edge source="SMAC11" target="FRAS3">
+  <data key="d0">0.5891</data>
+</edge>
+<edge source="SMAC11" target="POMO3">
+  <data key="d0">0.5814</data>
+</edge>
+<edge source="SMAC11" target="HYPE3">
+  <data key="d0">0.5801</data>
+</edge>
+<edge source="SMAC11" target="CSED3">
+  <data key="d0">0.5799</data>
+</edge>
+<edge source="SMAC11" target="SEER3">
+  <data key="d0">0.5779</data>
+</edge>
+<edge source="SMAC11" target="MLAS3">
+  <data key="d0">0.5706</data>
+</edge>
+<edge source="SMAC11" target="GRND3">
+  <data key="d0">0.5693</data>
+</edge>
+<edge source="SMAC11" target="NATU3">
+  <data key="d0">0.5613</data>
+</edge>
+<edge source="SMAC11" target="LOGN3">
+  <data key="d0">0.5564</data>
+</edge>
+<edge source="SMAC11" target="SMTO3">
+  <data key="d0">0.5355</data>
+</edge>
+<edge source="SMAC11" target="ESPA3">
+  <data key="d0">0.526</data>
+</edge>
+<edge source="SMAC11" target="PFRM3">
+  <data key="d0">0.5211</data>
+</edge>
+<edge source="SMAC11" target="BRKM5">
+  <data key="d0">0.52</data>
+</edge>
+<edge source="SMAC11" target="HBSA3">
+  <data key="d0">0.5163</data>
+</edge>
+<edge source="SMAC11" target="DIRR3">
+  <data key="d0">0.5122</data>
+</edge>
+<edge source="SMAC11" target="ROMI3">
+  <data key="d0">0.5119</data>
+</edge>
+<edge source="SMAC11" target="TTEN3">
+  <data key="d0">0.4982</data>
+</edge>
+<edge source="SMAC11" target="DESK3">
+  <data key="d0">0.4893</data>
+</edge>
+<edge source="SMAC11" target="MDIA3">
+  <data key="d0">0.4891</data>
+</edge>
+<edge source="SMAC11" target="ENJU3">
+  <data key="d0">0.487</data>
+</edge>
+<edge source="SMAC11" target="LEVE3">
+  <data key="d0">0.4792</data>
+</edge>
+<edge source="SMAC11" target="EUCA4">
+  <data key="d0">0.4756</data>
+</edge>
+<edge source="SMAC11" target="TECN3">
+  <data key="d0">0.4616</data>
+</edge>
+<edge source="SMAC11" target="BRKM3">
+  <data key="d0">0.4611</data>
+</edge>
+<edge source="SMAC11" target="ALPA3">
+  <data key="d0">0.4527</data>
+</edge>
+<edge source="SMAC11" target="TASA3">
+  <data key="d0">0.4482</data>
+</edge>
+<edge source="SMAC11" target="AMAR3">
+  <data key="d0">0.446</data>
+</edge>
+<edge source="SMAC11" target="OFSA3">
+  <data key="d0">0.4365</data>
+</edge>
+<edge source="SMAC11" target="TASA4">
+  <data key="d0">0.4321</data>
+</edge>
+<edge source="SMAC11" target="ODPV3">
+  <data key="d0">0.4151</data>
+</edge>
+<edge source="SMAL11" target="TRIG11">
+  <data key="d0">0.872</data>
+</edge>
+<edge source="SMAL11" target="VIVA3">
+  <data key="d0">0.7365</data>
+</edge>
+<edge source="SMAL11" target="YDUQ3">
+  <data key="d0">0.6545</data>
+</edge>
+<edge source="SMAL11" target="MATD3">
+  <data key="d0">0.5798</data>
+</edge>
+<edge source="SMAL11" target="POMO4">
+  <data key="d0">0.5478</data>
+</edge>
+<edge source="SMAL11" target="POMO3">
+  <data key="d0">0.5115</data>
+</edge>
+<edge source="SMAL11" target="MEAL3">
+  <data key="d0">0.5083</data>
+</edge>
+<edge source="SMAL11" target="HBSA3">
+  <data key="d0">0.5055</data>
+</edge>
+<edge source="SMAL11" target="DESK3">
+  <data key="d0">0.4831</data>
+</edge>
+<edge source="SMAL11" target="LEVE3">
+  <data key="d0">0.4278</data>
+</edge>
+<edge source="SMAL11" target="ODPV3">
+  <data key="d0">0.4017</data>
+</edge>
+<edge source="SPVT11" target="REIT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="SPVT11" target="GMAT3">
+  <data key="d0">0.6656</data>
+</edge>
+<edge source="SPVT11" target="SANB4">
+  <data key="d0">0.657</data>
+</edge>
+<edge source="SPVT11" target="SPUB11">
+  <data key="d0">0.6567</data>
+</edge>
+<edge source="SPVT11" target="ORVR3">
+  <data key="d0">0.6099</data>
+</edge>
+<edge source="SPVT11" target="AURE3">
+  <data key="d0">0.5703</data>
+</edge>
+<edge source="SPVT11" target="OPCT3">
+  <data key="d0">0.4953</data>
+</edge>
+<edge source="SPVT11" target="CXSE3">
+  <data key="d0">0.4033</data>
+</edge>
+<edge source="TGMA3" target="TRIG11">
+  <data key="d0">0.6289</data>
+</edge>
+<edge source="TGMA3" target="BMOB3">
+  <data key="d0">0.4102</data>
+</edge>
+<edge source="TRIG11" target="VIVA3">
+  <data key="d0">0.6862</data>
+</edge>
+<edge source="TRIG11" target="LAVV3">
+  <data key="d0">0.6793</data>
+</edge>
+<edge source="TRIG11" target="GUAR3">
+  <data key="d0">0.635</data>
+</edge>
+<edge source="TRIG11" target="TRIS3">
+  <data key="d0">0.6313</data>
+</edge>
+<edge source="TRIG11" target="BMOB3">
+  <data key="d0">0.6221</data>
+</edge>
+<edge source="TRIG11" target="ESPA3">
+  <data key="d0">0.5298</data>
+</edge>
+<edge source="TRIG11" target="ROMI3">
+  <data key="d0">0.4967</data>
+</edge>
+<edge source="TRIG11" target="LOGN3">
+  <data key="d0">0.4227</data>
+</edge>
+<edge source="VIVA3" target="TRIS3">
+  <data key="d0">0.5994</data>
+</edge>
+<edge source="VIVA3" target="NATU3">
+  <data key="d0">0.4947</data>
+</edge>
+<edge source="XBOV11" target="BEWZ39">
+  <data key="d0">0.7965</data>
+</edge>
+<edge source="XBOV11" target="BILF39">
+  <data key="d0">0.6189</data>
+</edge>
+<edge source="ABCP11" target="CTXT11">
+  <data key="d0">0.7924</data>
+</edge>
+<edge source="BXPO11" target="MATB11">
+  <data key="d0">0.7661</data>
+</edge>
+<edge source="BXPO11" target="CMDB11">
+  <data key="d0">0.7487</data>
+</edge>
+<edge source="BXPO11" target="MRFG3">
+  <data key="d0">0.5536</data>
+</edge>
+<edge source="BXPO11" target="CBAV3">
+  <data key="d0">0.4466</data>
+</edge>
+<edge source="BXPO11" target="WEGE3">
+  <data key="d0">0.4052</data>
+</edge>
+<edge source="ABGD39" target="REIT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="ABGD39" target="USIM6">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="ABGD39" target="GOLD11">
+  <data key="d0">0.8664</data>
+</edge>
+<edge source="ABGD39" target="BIAU39">
+  <data key="d0">0.7419</data>
+</edge>
+<edge source="AURA33" target="SIVR39">
+  <data key="d0">0.5099</data>
+</edge>
+<edge source="BEGD39" target="SPXR11">
+  <data key="d0">0.782</data>
+</edge>
+<edge source="BEGD39" target="QQQQ11">
+  <data key="d0">0.5032</data>
+</edge>
+<edge source="BEGD39" target="BIYW39">
+  <data key="d0">0.4408</data>
+</edge>
+<edge source="BFAV39" target="FIXX11">
+  <data key="d0">0.9724</data>
+</edge>
+<edge source="BFAV39" target="BIEV39">
+  <data key="d0">0.8627</data>
+</edge>
+<edge source="BFAV39" target="BEFA39">
+  <data key="d0">0.8223</data>
+</edge>
+<edge source="BFAV39" target="BIEF39">
+  <data key="d0">0.8108</data>
+</edge>
+<edge source="BFAV39" target="BDVD39">
+  <data key="d0">0.8087</data>
+</edge>
+<edge source="BFAV39" target="BHYG39">
+  <data key="d0">0.8075</data>
+</edge>
+<edge source="BFAV39" target="BEWL39">
+  <data key="d0">0.7954</data>
+</edge>
+<edge source="BFAV39" target="BEWY39">
+  <data key="d0">0.7549</data>
+</edge>
+<edge source="BFAV39" target="BEWJ39">
+  <data key="d0">0.7458</data>
+</edge>
+<edge source="BFAV39" target="BEWU39">
+  <data key="d0">0.7348</data>
+</edge>
+<edge source="BFAV39" target="BIXJ39">
+  <data key="d0">0.7243</data>
+</edge>
+<edge source="BFAV39" target="BIYF39">
+  <data key="d0">0.6978</data>
+</edge>
+<edge source="BFAV39" target="BIWM39">
+  <data key="d0">0.6943</data>
+</edge>
+<edge source="BFAV39" target="BLQD39">
+  <data key="d0">0.6893</data>
+</edge>
+<edge source="BFAV39" target="BIEM39">
+  <data key="d0">0.6752</data>
+</edge>
+<edge source="BFAV39" target="BIHI39">
+  <data key="d0">0.6692</data>
+</edge>
+<edge source="BFAV39" target="BIXN39">
+  <data key="d0">0.6691</data>
+</edge>
+<edge source="BFAV39" target="BGRT39">
+  <data key="d0">0.6501</data>
+</edge>
+<edge source="BFAV39" target="BEGE39">
+  <data key="d0">0.5486</data>
+</edge>
+<edge source="BFAV39" target="GOGL35">
+  <data key="d0">0.5344</data>
+</edge>
+<edge source="BFAV39" target="BOTZ39">
+  <data key="d0">0.5225</data>
+</edge>
+<edge source="BFAV39" target="YDRO11">
+  <data key="d0">0.4556</data>
+</edge>
+<edge source="BMTU39" target="REIT11">
+  <data key="d0">0.7352</data>
+</edge>
+<edge source="BMTU39" target="BURT39">
+  <data key="d0">0.5611</data>
+</edge>
+<edge source="BMTU39" target="BSUS39">
+  <data key="d0">0.4567</data>
+</edge>
+<edge source="BNDX11" target="BSUS39">
+  <data key="d0">0.7659</data>
+</edge>
+<edge source="BNDX11" target="USDB11">
+  <data key="d0">0.7287</data>
+</edge>
+<edge source="BSUS39" target="ANCR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BSUS39" target="BCOM39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BSUS39" target="REIT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BSUS39" target="TJKB11">
+  <data key="d0">0.9641</data>
+</edge>
+<edge source="BSUS39" target="BBIG11">
+  <data key="d0">0.9394</data>
+</edge>
+<edge source="BSUS39" target="SIVR39">
+  <data key="d0">0.7836</data>
+</edge>
+<edge source="BSUS39" target="BURT39">
+  <data key="d0">0.7652</data>
+</edge>
+<edge source="BSUS39" target="USDB11">
+  <data key="d0">0.7326</data>
+</edge>
+<edge source="BSUS39" target="BMIN3">
+  <data key="d0">0.7252</data>
+</edge>
+<edge source="BSUS39" target="BOEF39">
+  <data key="d0">0.707</data>
+</edge>
+<edge source="BSUS39" target="BTLT39">
+  <data key="d0">0.5722</data>
+</edge>
+<edge source="BSUS39" target="BCIR39">
+  <data key="d0">0.5467</data>
+</edge>
+<edge source="BSUS39" target="FRIO3">
+  <data key="d0">0.5388</data>
+</edge>
+<edge source="BUSM39" target="BGWH39">
+  <data key="d0">0.7971</data>
+</edge>
+<edge source="BUSM39" target="BDVY39">
+  <data key="d0">0.7236</data>
+</edge>
+<edge source="BUSM39" target="CRPG3">
+  <data key="d0">0.7091</data>
+</edge>
+<edge source="BUSM39" target="BIVE39">
+  <data key="d0">0.6739</data>
+</edge>
+<edge source="BUSM39" target="BQYL39">
+  <data key="d0">0.6694</data>
+</edge>
+<edge source="BUSM39" target="HTEK11">
+  <data key="d0">0.5609</data>
+</edge>
+<edge source="BUSM39" target="BNDA39">
+  <data key="d0">0.4861</data>
+</edge>
+<edge source="COCE3" target="BPVE39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="COCE3" target="ERPA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="COCE3" target="WDCN3">
+  <data key="d0">0.4337</data>
+</edge>
+<edge source="COCE3" target="XPID11">
+  <data key="d0">0.4262</data>
+</edge>
+<edge source="COCE3" target="HREC11">
+  <data key="d0">0.4154</data>
+</edge>
+<edge source="GDXB39" target="GPAR3">
+  <data key="d0">0.8262</data>
+</edge>
+<edge source="GDXB39" target="REIT11">
+  <data key="d0">0.6204</data>
+</edge>
+<edge source="GDXB39" target="SIVR39">
+  <data key="d0">0.6114</data>
+</edge>
+<edge source="RCFF11" target="BICL39">
+  <data key="d0">0.987</data>
+</edge>
+<edge source="RCFF11" target="NUTR3">
+  <data key="d0">0.839</data>
+</edge>
+<edge source="RCFF11" target="CEED3">
+  <data key="d0">0.4036</data>
+</edge>
+<edge source="REIT11" target="BCIR39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="REIT11" target="BKCH39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="REIT11" target="BSRE39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="REIT11" target="FIIP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="REIT11" target="IRIF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="REIT11" target="SPUB11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="REIT11" target="TJKB11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="REIT11" target="BEWQ39">
+  <data key="d0">0.9706</data>
+</edge>
+<edge source="REIT11" target="BLPX39">
+  <data key="d0">0.9585</data>
+</edge>
+<edge source="REIT11" target="BICL39">
+  <data key="d0">0.9303</data>
+</edge>
+<edge source="REIT11" target="BLUR11">
+  <data key="d0">0.907</data>
+</edge>
+<edge source="REIT11" target="EDFO11">
+  <data key="d0">0.8168</data>
+</edge>
+<edge source="REIT11" target="BURT39">
+  <data key="d0">0.7837</data>
+</edge>
+<edge source="REIT11" target="DOHL3">
+  <data key="d0">0.7118</data>
+</edge>
+<edge source="REIT11" target="RBLG11">
+  <data key="d0">0.6748</data>
+</edge>
+<edge source="REIT11" target="HCST11">
+  <data key="d0">0.6653</data>
+</edge>
+<edge source="REIT11" target="RINV11">
+  <data key="d0">0.5126</data>
+</edge>
+<edge source="REIT11" target="BEDC39">
+  <data key="d0">0.436</data>
+</edge>
+<edge source="REIT11" target="BLPA39">
+  <data key="d0">0.4342</data>
+</edge>
+<edge source="REIT11" target="CEED3">
+  <data key="d0">0.4231</data>
+</edge>
+<edge source="REIT11" target="USDB11">
+  <data key="d0">0.4021</data>
+</edge>
+<edge source="USIM6" target="AJFI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="BAIQ39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="BEMV39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="BRKM6">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="BSRE39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="CLIN11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="EVTC31">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="FISC11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="KNUQ11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="SAPI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="VRTM11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="WSEC11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="USIM6" target="GLOG11">
+  <data key="d0">0.9901</data>
+</edge>
+<edge source="USIM6" target="BTCI11">
+  <data key="d0">0.9434</data>
+</edge>
+<edge source="USIM6" target="CRPT11">
+  <data key="d0">0.9134</data>
+</edge>
+<edge source="USIM6" target="AURE3">
+  <data key="d0">0.7505</data>
+</edge>
+<edge source="USIM6" target="RBLG11">
+  <data key="d0">0.6735</data>
+</edge>
+<edge source="USIM6" target="CSUD3">
+  <data key="d0">0.6261</data>
+</edge>
+<edge source="USIM6" target="ONCO3">
+  <data key="d0">0.5589</data>
+</edge>
+<edge source="USIM6" target="DOTZ3">
+  <data key="d0">0.4507</data>
+</edge>
+<edge source="USIM6" target="CCME11">
+  <data key="d0">0.4434</data>
+</edge>
+<edge source="USIM6" target="ALZR11">
+  <data key="d0">0.4317</data>
+</edge>
+<edge source="USIM6" target="XPIN11">
+  <data key="d0">0.4149</data>
+</edge>
+<edge source="ACWI11" target="USAL11">
+  <data key="d0">0.925</data>
+</edge>
+<edge source="ACWI11" target="SPXI11">
+  <data key="d0">0.8698</data>
+</edge>
+<edge source="ACWI11" target="UTEC11">
+  <data key="d0">0.8558</data>
+</edge>
+<edge source="ACWI11" target="REVE11">
+  <data key="d0">0.6547</data>
+</edge>
+<edge source="ALUG11" target="BPVE39">
+  <data key="d0">0.6823</data>
+</edge>
+<edge source="ALUG11" target="SVAL11">
+  <data key="d0">0.6475</data>
+</edge>
+<edge source="ALUG11" target="BIJH39">
+  <data key="d0">0.6378</data>
+</edge>
+<edge source="ALUG11" target="PEVC11">
+  <data key="d0">0.5803</data>
+</edge>
+<edge source="ALUG11" target="BUSR39">
+  <data key="d0">0.4968</data>
+</edge>
+<edge source="BAAX39" target="BIEM39">
+  <data key="d0">0.6938</data>
+</edge>
+<edge source="BAAX39" target="BEEM39">
+  <data key="d0">0.6554</data>
+</edge>
+<edge source="BAAX39" target="BEGE39">
+  <data key="d0">0.6378</data>
+</edge>
+<edge source="BACW39" target="USAL11">
+  <data key="d0">0.7516</data>
+</edge>
+<edge source="BACW39" target="NASD11">
+  <data key="d0">0.7048</data>
+</edge>
+<edge source="BACW39" target="USTK11">
+  <data key="d0">0.6723</data>
+</edge>
+<edge source="BBUG39" target="BFNX39">
+  <data key="d0">0.7123</data>
+</edge>
+<edge source="BBUG39" target="JOGO11">
+  <data key="d0">0.5347</data>
+</edge>
+<edge source="BBUG39" target="AHEB3">
+  <data key="d0">0.5237</data>
+</edge>
+<edge source="BDVD39" target="BSDV39">
+  <data key="d0">0.7223</data>
+</edge>
+<edge source="BDVD39" target="BIYF39">
+  <data key="d0">0.4937</data>
+</edge>
+<edge source="BDVD39" target="BGRT39">
+  <data key="d0">0.4515</data>
+</edge>
+<edge source="BDVY39" target="BGWH39">
+  <data key="d0">0.6699</data>
+</edge>
+<edge source="BEDC39" target="ALZC11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="AROA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="AZPL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="AZZA3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="BBFI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="BRST3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="BTFL39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="CHIP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="COPN11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="CPUR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="DAMA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="DOLA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="ETHA39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="FIIP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="FISC11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="GARE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="HGBL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="IBIT39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="ICRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="IFRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="ISAE3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="JSCR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="MCRE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="PINE3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="QQQI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="QSOL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="RECM11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="RENV11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="RIFF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="SNEL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="SOLH11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="TIRB11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="TOPP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="TRXY11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="VGRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="VTRU3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEDC39" target="KNUQ11">
+  <data key="d0">0.9979</data>
+</edge>
+<edge source="BEDC39" target="ARXD11">
+  <data key="d0">0.9964</data>
+</edge>
+<edge source="BEDC39" target="SPYI11">
+  <data key="d0">0.9887</data>
+</edge>
+<edge source="BEDC39" target="SAPI11">
+  <data key="d0">0.9775</data>
+</edge>
+<edge source="BEDC39" target="TVRI11">
+  <data key="d0">0.9644</data>
+</edge>
+<edge source="BEDC39" target="CPSH11">
+  <data key="d0">0.9013</data>
+</edge>
+<edge source="BEDC39" target="BTHI11">
+  <data key="d0">0.8091</data>
+</edge>
+<edge source="BEDC39" target="VVCR11">
+  <data key="d0">0.7233</data>
+</edge>
+<edge source="BEDC39" target="BIBB39">
+  <data key="d0">0.6886</data>
+</edge>
+<edge source="BEDC39" target="SPXI11">
+  <data key="d0">0.6867</data>
+</edge>
+<edge source="BEDC39" target="BEWQ39">
+  <data key="d0">0.6533</data>
+</edge>
+<edge source="BEDC39" target="EXES11">
+  <data key="d0">0.5921</data>
+</edge>
+<edge source="BEDC39" target="BGNO39">
+  <data key="d0">0.5231</data>
+</edge>
+<edge source="BEDC39" target="BIEU39">
+  <data key="d0">0.4642</data>
+</edge>
+<edge source="BEDC39" target="TKNO4">
+  <data key="d0">0.4608</data>
+</edge>
+<edge source="BEEM39" target="BIEM39">
+  <data key="d0">0.7556</data>
+</edge>
+<edge source="BEEM39" target="BEGE39">
+  <data key="d0">0.7038</data>
+</edge>
+<edge source="BEEM39" target="BLBT39">
+  <data key="d0">0.5055</data>
+</edge>
+<edge source="BEEM39" target="BEWY39">
+  <data key="d0">0.4687</data>
+</edge>
+<edge source="BEFA39" target="BEFV39">
+  <data key="d0">0.8033</data>
+</edge>
+<edge source="BEFA39" target="BEWL39">
+  <data key="d0">0.6938</data>
+</edge>
+<edge source="BEFA39" target="BOTZ39">
+  <data key="d0">0.5897</data>
+</edge>
+<edge source="BEGE39" target="FIXX11">
+  <data key="d0">0.8041</data>
+</edge>
+<edge source="BEGE39" target="BIEM39">
+  <data key="d0">0.7517</data>
+</edge>
+<edge source="BEGE39" target="BEWY39">
+  <data key="d0">0.6706</data>
+</edge>
+<edge source="BEMV39" target="BRKM6">
+  <data key="d0">0.4768</data>
+</edge>
+<edge source="BEWC39" target="FOOD11">
+  <data key="d0">0.7841</data>
+</edge>
+<edge source="BEWC39" target="BPVE39">
+  <data key="d0">0.7772</data>
+</edge>
+<edge source="BEWC39" target="BIJH39">
+  <data key="d0">0.7357</data>
+</edge>
+<edge source="BEWC39" target="BITO39">
+  <data key="d0">0.683</data>
+</edge>
+<edge source="BEWC39" target="BIGF39">
+  <data key="d0">0.5659</data>
+</edge>
+<edge source="BEWG39" target="BEZU39">
+  <data key="d0">0.8109</data>
+</edge>
+<edge source="BEWG39" target="BPVE39">
+  <data key="d0">0.6559</data>
+</edge>
+<edge source="BEWG39" target="BEWW39">
+  <data key="d0">0.5205</data>
+</edge>
+<edge source="BEWJ39" target="BIEF39">
+  <data key="d0">0.6496</data>
+</edge>
+<edge source="BEWJ39" target="BEWU39">
+  <data key="d0">0.5458</data>
+</edge>
+<edge source="BEWL39" target="BIEF39">
+  <data key="d0">0.654</data>
+</edge>
+<edge source="BEWL39" target="BEWU39">
+  <data key="d0">0.6427</data>
+</edge>
+<edge source="BEWQ39" target="BIEU39">
+  <data key="d0">0.7792</data>
+</edge>
+<edge source="BEWT39" target="KOPA11">
+  <data key="d0">0.6835</data>
+</edge>
+<edge source="BEWU39" target="BIEF39">
+  <data key="d0">0.6456</data>
+</edge>
+<edge source="BEWW39" target="BPVE39">
+  <data key="d0">0.5756</data>
+</edge>
+<edge source="BEWW39" target="BEZU39">
+  <data key="d0">0.5417</data>
+</edge>
+<edge source="BEZU39" target="CPTR11">
+  <data key="d0">0.8967</data>
+</edge>
+<edge source="BEZU39" target="BPVE39">
+  <data key="d0">0.6694</data>
+</edge>
+<edge source="BFNX39" target="AHEB3">
+  <data key="d0">0.8866</data>
+</edge>
+<edge source="BFNX39" target="JOGO11">
+  <data key="d0">0.5984</data>
+</edge>
+<edge source="BGNO39" target="CRPG3">
+  <data key="d0">0.7313</data>
+</edge>
+<edge source="BGWH39" target="BIVE39">
+  <data key="d0">0.5848</data>
+</edge>
+<edge source="BHER39" target="BCHI39">
+  <data key="d0">0.4733</data>
+</edge>
+<edge source="BHER39" target="XINA11">
+  <data key="d0">0.4663</data>
+</edge>
+<edge source="BIBB39" target="SPXI11">
+  <data key="d0">0.5821</data>
+</edge>
+<edge source="BIBB39" target="QQQI11">
+  <data key="d0">0.4952</data>
+</edge>
+<edge source="BIEF39" target="BIEV39">
+  <data key="d0">0.6028</data>
+</edge>
+<edge source="BIEM39" target="BLBT39">
+  <data key="d0">0.53</data>
+</edge>
+<edge source="BIEM39" target="BOTZ39">
+  <data key="d0">0.4269</data>
+</edge>
+<edge source="BIGF39" target="AGRX11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="BRFT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="CRAA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="FGAA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="GCRA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="JGPX11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="KNCA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="KOPA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="NEXG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="OIAG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="SNAG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="VCRA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="VGIA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BIGF39" target="FOOD11">
+  <data key="d0">0.6448</data>
+</edge>
+<edge source="BIGF39" target="BPVE39">
+  <data key="d0">0.5867</data>
+</edge>
+<edge source="BIGF39" target="BAER39">
+  <data key="d0">0.5238</data>
+</edge>
+<edge source="BIGF39" target="BVLU39">
+  <data key="d0">0.4262</data>
+</edge>
+<edge source="BIJH39" target="BPVE39">
+  <data key="d0">0.8581</data>
+</edge>
+<edge source="BIJH39" target="BIJR39">
+  <data key="d0">0.7935</data>
+</edge>
+<edge source="BIJH39" target="BITO39">
+  <data key="d0">0.7884</data>
+</edge>
+<edge source="BIJH39" target="SVAL11">
+  <data key="d0">0.7396</data>
+</edge>
+<edge source="BIJH39" target="DCRA11">
+  <data key="d0">0.6887</data>
+</edge>
+<edge source="BIJH39" target="FOOD11">
+  <data key="d0">0.6762</data>
+</edge>
+<edge source="BIJH39" target="BUSR39">
+  <data key="d0">0.4846</data>
+</edge>
+<edge source="BIJR39" target="BPVE39">
+  <data key="d0">0.8234</data>
+</edge>
+<edge source="BIJR39" target="BITO39">
+  <data key="d0">0.5347</data>
+</edge>
+<edge source="BITO39" target="BPVE39">
+  <data key="d0">0.7351</data>
+</edge>
+<edge source="BIVB39" target="SPXI11">
+  <data key="d0">0.7405</data>
+</edge>
+<edge source="BIVB39" target="IVVB11">
+  <data key="d0">0.7278</data>
+</edge>
+<edge source="BIVB39" target="WRLD11">
+  <data key="d0">0.6889</data>
+</edge>
+<edge source="BIVW39" target="USAL11">
+  <data key="d0">0.7623</data>
+</edge>
+<edge source="BIVW39" target="UTEC11">
+  <data key="d0">0.7376</data>
+</edge>
+<edge source="BIVW39" target="USTK11">
+  <data key="d0">0.6922</data>
+</edge>
+<edge source="BIWM39" target="BIYF39">
+  <data key="d0">0.538</data>
+</edge>
+<edge source="BIWM39" target="YDRO11">
+  <data key="d0">0.4705</data>
+</edge>
+<edge source="BIYF39" target="BIXJ39">
+  <data key="d0">0.4677</data>
+</edge>
+<edge source="BIYW39" target="QQQQ11">
+  <data key="d0">0.7673</data>
+</edge>
+<edge source="BIYW39" target="SPXR11">
+  <data key="d0">0.7065</data>
+</edge>
+<edge source="BNDA39" target="BQYL39">
+  <data key="d0">0.4774</data>
+</edge>
+<edge source="BOEF39" target="CEED3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BOEF39" target="GPAR3">
+  <data key="d0">0.9941</data>
+</edge>
+<edge source="BOEF39" target="QQQQ11">
+  <data key="d0">0.7756</data>
+</edge>
+<edge source="BOEF39" target="BICL39">
+  <data key="d0">0.6904</data>
+</edge>
+<edge source="BOEF39" target="BSOX39">
+  <data key="d0">0.6763</data>
+</edge>
+<edge source="BOEF39" target="BCIR39">
+  <data key="d0">0.4764</data>
+</edge>
+<edge source="BPVE39" target="AGRX11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="CPTR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="CRAA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="DCRA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="IAGR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="KDOL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="KNCA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="LSAG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="OIAG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="SNAG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="VGIA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BPVE39" target="SVAL11">
+  <data key="d0">0.8249</data>
+</edge>
+<edge source="BPVE39" target="FOOD11">
+  <data key="d0">0.75</data>
+</edge>
+<edge source="BPVE39" target="PEVC11">
+  <data key="d0">0.6953</data>
+</edge>
+<edge source="BPVE39" target="BUSR39">
+  <data key="d0">0.6091</data>
+</edge>
+<edge source="BPVE39" target="BAER39">
+  <data key="d0">0.5602</data>
+</edge>
+<edge source="BQUA39" target="USAL11">
+  <data key="d0">0.8224</data>
+</edge>
+<edge source="BQUA39" target="SPXI11">
+  <data key="d0">0.7934</data>
+</edge>
+<edge source="BQUA39" target="WRLD11">
+  <data key="d0">0.7685</data>
+</edge>
+<edge source="BVLU39" target="BRFT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FOOD11" target="SVAL11">
+  <data key="d0">0.6388</data>
+</edge>
+<edge source="GENB11" target="UTEC11">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="GENB11" target="NASD11">
+  <data key="d0">0.7475</data>
+</edge>
+<edge source="GENB11" target="TECK11">
+  <data key="d0">0.7386</data>
+</edge>
+<edge source="IVVB11" target="USAL11">
+  <data key="d0">0.9512</data>
+</edge>
+<edge source="IVVB11" target="SPXI11">
+  <data key="d0">0.9349</data>
+</edge>
+<edge source="IVVB11" target="NASD11">
+  <data key="d0">0.9037</data>
+</edge>
+<edge source="IVVB11" target="QQQI11">
+  <data key="d0">0.8562</data>
+</edge>
+<edge source="IVVB11" target="WRLD11">
+  <data key="d0">0.8514</data>
+</edge>
+<edge source="IVVB11" target="SPYI11">
+  <data key="d0">0.8507</data>
+</edge>
+<edge source="IVVB11" target="MILL11">
+  <data key="d0">0.7022</data>
+</edge>
+<edge source="IVVB11" target="SPXB11">
+  <data key="d0">0.5531</data>
+</edge>
+<edge source="IWMI11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="IWMI11" target="GPAR3">
+  <data key="d0">0.8802</data>
+</edge>
+<edge source="IWMI11" target="SPXR11">
+  <data key="d0">0.6235</data>
+</edge>
+<edge source="MILL11" target="USAL11">
+  <data key="d0">0.7436</data>
+</edge>
+<edge source="MILL11" target="NASD11">
+  <data key="d0">0.7344</data>
+</edge>
+<edge source="NASD11" target="UTEC11">
+  <data key="d0">0.9549</data>
+</edge>
+<edge source="NASD11" target="USAL11">
+  <data key="d0">0.9274</data>
+</edge>
+<edge source="NASD11" target="SPXI11">
+  <data key="d0">0.9137</data>
+</edge>
+<edge source="NASD11" target="USTK11">
+  <data key="d0">0.9073</data>
+</edge>
+<edge source="NASD11" target="QQQI11">
+  <data key="d0">0.8697</data>
+</edge>
+<edge source="NASD11" target="TECK11">
+  <data key="d0">0.8563</data>
+</edge>
+<edge source="PEVC11" target="SVAL11">
+  <data key="d0">0.7491</data>
+</edge>
+<edge source="QQQI11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="QQQI11" target="SPYI11">
+  <data key="d0">0.8835</data>
+</edge>
+<edge source="QQQI11" target="SPXI11">
+  <data key="d0">0.8624</data>
+</edge>
+<edge source="QQQI11" target="SPXB11">
+  <data key="d0">0.8585</data>
+</edge>
+<edge source="QQQQ11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="QQQQ11" target="GPAR3">
+  <data key="d0">0.9391</data>
+</edge>
+<edge source="QQQQ11" target="BSOX39">
+  <data key="d0">0.7629</data>
+</edge>
+<edge source="QQQQ11" target="SPXR11">
+  <data key="d0">0.7254</data>
+</edge>
+<edge source="REVE11" target="USAL11">
+  <data key="d0">0.7134</data>
+</edge>
+<edge source="REVE11" target="SPXI11">
+  <data key="d0">0.7036</data>
+</edge>
+<edge source="SPXB11" target="SPYI11">
+  <data key="d0">0.756</data>
+</edge>
+<edge source="SPXI11" target="USAL11">
+  <data key="d0">0.9687</data>
+</edge>
+<edge source="SPXI11" target="UTEC11">
+  <data key="d0">0.896</data>
+</edge>
+<edge source="SPXI11" target="WRLD11">
+  <data key="d0">0.8739</data>
+</edge>
+<edge source="SPXI11" target="SPYI11">
+  <data key="d0">0.8444</data>
+</edge>
+<edge source="SPXR11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="SPXR11" target="GPAR3">
+  <data key="d0">0.993</data>
+</edge>
+<edge source="TECK11" target="UTEC11">
+  <data key="d0">0.8658</data>
+</edge>
+<edge source="TECK11" target="USTK11">
+  <data key="d0">0.8232</data>
+</edge>
+<edge source="USAL11" target="UTEC11">
+  <data key="d0">0.9153</data>
+</edge>
+<edge source="USAL11" target="WRLD11">
+  <data key="d0">0.8794</data>
+</edge>
+<edge source="USAL11" target="USTK11">
+  <data key="d0">0.8594</data>
+</edge>
+<edge source="USTK11" target="UTEC11">
+  <data key="d0">0.9456</data>
+</edge>
+<edge source="XINA11" target="BFXI39">
+  <data key="d0">0.9157</data>
+</edge>
+<edge source="XINA11" target="BCHI39">
+  <data key="d0">0.8862</data>
+</edge>
+<edge source="AFHI11" target="MCRE11">
+  <data key="d0">0.4005</data>
+</edge>
+<edge source="MCRE11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="MCRE11" target="BFCG39">
+  <data key="d0">0.6197</data>
+</edge>
+<edge source="MCRE11" target="VCJR11">
+  <data key="d0">0.5162</data>
+</edge>
+<edge source="AFLT3" target="KDOL11">
+  <data key="d0">0.904</data>
+</edge>
+<edge source="AFLT3" target="SNAG11">
+  <data key="d0">0.7866</data>
+</edge>
+<edge source="GPAR3" target="ANCR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="GPAR3" target="BKCH39">
+  <data key="d0">0.924</data>
+</edge>
+<edge source="GPAR3" target="EVTC31">
+  <data key="d0">0.8543</data>
+</edge>
+<edge source="GPAR3" target="BRIP11">
+  <data key="d0">0.5638</data>
+</edge>
+<edge source="GPAR3" target="ATED3">
+  <data key="d0">0.4618</data>
+</edge>
+<edge source="GPAR3" target="VCRR11">
+  <data key="d0">0.4379</data>
+</edge>
+<edge source="GPAR3" target="BAIQ39">
+  <data key="d0">0.4286</data>
+</edge>
+<edge source="GPAR3" target="BSOX39">
+  <data key="d0">0.4163</data>
+</edge>
+<edge source="KDOL11" target="PEMA11">
+  <data key="d0">0.9911</data>
+</edge>
+<edge source="KDOL11" target="CEDO3">
+  <data key="d0">0.6745</data>
+</edge>
+<edge source="KDOL11" target="HAGA3">
+  <data key="d0">0.4246</data>
+</edge>
+<edge source="KDOL11" target="NEWU11">
+  <data key="d0">0.4197</data>
+</edge>
+<edge source="NEXG11" target="AHEB3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="NEXG11" target="SEQR11">
+  <data key="d0">0.5636</data>
+</edge>
+<edge source="NEXG11" target="GSHP3">
+  <data key="d0">0.5555</data>
+</edge>
+<edge source="SNAG11" target="CEDO3">
+  <data key="d0">0.9339</data>
+</edge>
+<edge source="SNAG11" target="PEMA11">
+  <data key="d0">0.611</data>
+</edge>
+<edge source="SNAG11" target="ALLD3">
+  <data key="d0">0.4331</data>
+</edge>
+<edge source="SNAG11" target="ENMT4">
+  <data key="d0">0.4278</data>
+</edge>
+<edge source="ARML3" target="CRPG3">
+  <data key="d0">0.5997</data>
+</edge>
+<edge source="ASAI3" target="DEXP4">
+  <data key="d0">0.7411</data>
+</edge>
+<edge source="ASAI3" target="DEXP3">
+  <data key="d0">0.7364</data>
+</edge>
+<edge source="AZZA3" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="B3SA3" target="TXRX3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BEWZ39" target="BILF39">
+  <data key="d0">0.6457</data>
+</edge>
+<edge source="BPAC11" target="BPAC5">
+  <data key="d0">0.8316</data>
+</edge>
+<edge source="BPAC11" target="BPAC3">
+  <data key="d0">0.726</data>
+</edge>
+<edge source="BPAC3" target="BPAC5">
+  <data key="d0">0.7062</data>
+</edge>
+<edge source="CAML3" target="TXRX3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CMDB11" target="MATB11">
+  <data key="d0">0.7294</data>
+</edge>
+<edge source="CMDB11" target="VALE3">
+  <data key="d0">0.6056</data>
+</edge>
+<edge source="CRPG3" target="AROA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="AZIN11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="AZPL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="BIEI39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="BRAV3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="CLIN11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="CPLG11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="DAMA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="DOLA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="FAMB11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="GARE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="GZIT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="HGBL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="ICRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="IFRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="INRD11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="ITRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="KORE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="NBOV11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="NUIF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="RENV11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="SMRE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="SNEL11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="SNME11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="URHF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="VGRI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="VRTM11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="CRPG3" target="BHIA3">
+  <data key="d0">0.9855</data>
+</edge>
+<edge source="CRPG3" target="RBOP11">
+  <data key="d0">0.9648</data>
+</edge>
+<edge source="CRPG3" target="KNUQ11">
+  <data key="d0">0.9244</data>
+</edge>
+<edge source="CRPG3" target="TRBL11">
+  <data key="d0">0.9065</data>
+</edge>
+<edge source="CRPG3" target="RBIF11">
+  <data key="d0">0.8362</data>
+</edge>
+<edge source="CRPG3" target="NCRI11">
+  <data key="d0">0.7844</data>
+</edge>
+<edge source="CRPG3" target="BSHV39">
+  <data key="d0">0.7806</data>
+</edge>
+<edge source="CRPG3" target="TMPS11">
+  <data key="d0">0.7804</data>
+</edge>
+<edge source="CRPG3" target="WSEC11">
+  <data key="d0">0.7543</data>
+</edge>
+<edge source="CRPG3" target="VIUR11">
+  <data key="d0">0.709</data>
+</edge>
+<edge source="CRPG3" target="CPSH11">
+  <data key="d0">0.5762</data>
+</edge>
+<edge source="CRPG3" target="BTCI11">
+  <data key="d0">0.5221</data>
+</edge>
+<edge source="CRPG3" target="SNCI11">
+  <data key="d0">0.4815</data>
+</edge>
+<edge source="CRPG3" target="DEFI11">
+  <data key="d0">0.478</data>
+</edge>
+<edge source="CRPG3" target="CXCI11">
+  <data key="d0">0.4593</data>
+</edge>
+<edge source="CRPG3" target="SNID11">
+  <data key="d0">0.4431</data>
+</edge>
+<edge source="CSAN3" target="RAIZ4">
+  <data key="d0">0.602</data>
+</edge>
+<edge source="CSED3" target="SEER3">
+  <data key="d0">0.5038</data>
+</edge>
+<edge source="CSNA3" target="USIM5">
+  <data key="d0">0.7071</data>
+</edge>
+<edge source="CSNA3" target="GGBR4">
+  <data key="d0">0.6741</data>
+</edge>
+<edge source="CSNA3" target="GOAU4">
+  <data key="d0">0.6522</data>
+</edge>
+<edge source="CSNA3" target="CMIN3">
+  <data key="d0">0.6389</data>
+</edge>
+<edge source="CSNA3" target="USIM3">
+  <data key="d0">0.5096</data>
+</edge>
+<edge source="GGPS3" target="MULT3">
+  <data key="d0">0.5083</data>
+</edge>
+<edge source="GGPS3" target="JSLG3">
+  <data key="d0">0.405</data>
+</edge>
+<edge source="GMAT3" target="ORVR3">
+  <data key="d0">0.4086</data>
+</edge>
+<edge source="GUAR3" target="LAVV3">
+  <data key="d0">0.4832</data>
+</edge>
+<edge source="IGTI11" target="IGTI3">
+  <data key="d0">0.9557</data>
+</edge>
+<edge source="ISAE4" target="CTKA3">
+  <data key="d0">0.7833</data>
+</edge>
+<edge source="ISAE4" target="TIRB11">
+  <data key="d0">0.5981</data>
+</edge>
+<edge source="JALL3" target="RAIZ4">
+  <data key="d0">0.4018</data>
+</edge>
+<edge source="KLBN11" target="KLBN4">
+  <data key="d0">0.8345</data>
+</edge>
+<edge source="KLBN11" target="KLBN3">
+  <data key="d0">0.6755</data>
+</edge>
+<edge source="KLBN11" target="SUZB3">
+  <data key="d0">0.6354</data>
+</edge>
+<edge source="KLBN11" target="TXRX3">
+  <data key="d0">0.4471</data>
+</edge>
+<edge source="KLBN4" target="TXRX3">
+  <data key="d0">0.6803</data>
+</edge>
+<edge source="KLBN4" target="SUZB3">
+  <data key="d0">0.5908</data>
+</edge>
+<edge source="KLBN4" target="KLBN3">
+  <data key="d0">0.5037</data>
+</edge>
+<edge source="LAVV3" target="TRIS3">
+  <data key="d0">0.5195</data>
+</edge>
+<edge source="LJQQ3" target="SMFT3">
+  <data key="d0">0.5476</data>
+</edge>
+<edge source="LJQQ3" target="PNVL3">
+  <data key="d0">0.42</data>
+</edge>
+<edge source="LREN3" target="SMFT3">
+  <data key="d0">0.5657</data>
+</edge>
+<edge source="LREN3" target="TFCO4">
+  <data key="d0">0.4392</data>
+</edge>
+<edge source="MATB11" target="VALE3">
+  <data key="d0">0.7037</data>
+</edge>
+<edge source="MATB11" target="BRAP4">
+  <data key="d0">0.5381</data>
+</edge>
+<edge source="MATB11" target="BRAP3">
+  <data key="d0">0.5121</data>
+</edge>
+<edge source="MATB11" target="CBAV3">
+  <data key="d0">0.4962</data>
+</edge>
+<edge source="MATD3" target="YDUQ3">
+  <data key="d0">0.4068</data>
+</edge>
+<edge source="MLAS3" target="SBFG3">
+  <data key="d0">0.4668</data>
+</edge>
+<edge source="MLAS3" target="SEER3">
+  <data key="d0">0.4221</data>
+</edge>
+<edge source="MRFG3" target="JBSS32">
+  <data key="d0">0.4078</data>
+</edge>
+<edge source="NBOV11" target="WLMM3">
+  <data key="d0">0.9351</data>
+</edge>
+<edge source="NBOV11" target="HGPO11">
+  <data key="d0">0.5982</data>
+</edge>
+<edge source="PETZ3" target="PGMN3">
+  <data key="d0">0.4014</data>
+</edge>
+<edge source="PNVL3" target="VGIP11">
+  <data key="d0">0.443</data>
+</edge>
+<edge source="SPUB11" target="CXSE3">
+  <data key="d0">0.6809</data>
+</edge>
+<edge source="TIRB11" target="VTRU3">
+  <data key="d0">0.4665</data>
+</edge>
+<edge source="AGRO3" target="TXRX3">
+  <data key="d0">0.5448</data>
+</edge>
+<edge source="TXRX3" target="ALUP4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="BMEB3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="BRSR5">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="CBEE3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="FLRP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="FPOR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="HGRU11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="IRBR3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="NVHO11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="PPLA11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="RBRF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="XPML11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX3" target="CEDO4">
+  <data key="d0">0.9998</data>
+</edge>
+<edge source="TXRX3" target="FESA3">
+  <data key="d0">0.9987</data>
+</edge>
+<edge source="TXRX3" target="CARE11">
+  <data key="d0">0.9959</data>
+</edge>
+<edge source="TXRX3" target="FCFL11">
+  <data key="d0">0.9849</data>
+</edge>
+<edge source="TXRX3" target="MAXR11">
+  <data key="d0">0.9803</data>
+</edge>
+<edge source="TXRX3" target="BGIP4">
+  <data key="d0">0.8446</data>
+</edge>
+<edge source="TXRX3" target="NSLU11">
+  <data key="d0">0.8299</data>
+</edge>
+<edge source="TXRX3" target="BRSR3">
+  <data key="d0">0.7764</data>
+</edge>
+<edge source="TXRX3" target="ENGI3">
+  <data key="d0">0.7681</data>
+</edge>
+<edge source="TXRX3" target="CNES11">
+  <data key="d0">0.7531</data>
+</edge>
+<edge source="TXRX3" target="FIIB11">
+  <data key="d0">0.7472</data>
+</edge>
+<edge source="TXRX3" target="PLRI11">
+  <data key="d0">0.6679</data>
+</edge>
+<edge source="TXRX3" target="RAPT3">
+  <data key="d0">0.6477</data>
+</edge>
+<edge source="TXRX3" target="KNRE11">
+  <data key="d0">0.6162</data>
+</edge>
+<edge source="TXRX3" target="CRPG5">
+  <data key="d0">0.5772</data>
+</edge>
+<edge source="TXRX3" target="KLBN3">
+  <data key="d0">0.5402</data>
+</edge>
+<edge source="TXRX3" target="FMOF11">
+  <data key="d0">0.5325</data>
+</edge>
+<edge source="TXRX3" target="RADL3">
+  <data key="d0">0.5068</data>
+</edge>
+<edge source="TXRX3" target="FIGS11">
+  <data key="d0">0.506</data>
+</edge>
+<edge source="TXRX3" target="SHUL4">
+  <data key="d0">0.5057</data>
+</edge>
+<edge source="AGRX11" target="FSPE11">
+  <data key="d0">0.9248</data>
+</edge>
+<edge source="AGRX11" target="BDIV11">
+  <data key="d0">0.604</data>
+</edge>
+<edge source="AGRX11" target="RBRR11">
+  <data key="d0">0.4753</data>
+</edge>
+<edge source="AGRX11" target="BBRC11">
+  <data key="d0">0.4531</data>
+</edge>
+<edge source="AGRX11" target="FLCR11">
+  <data key="d0">0.4051</data>
+</edge>
+<edge source="AHEB3" target="BRFT11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="AHEB3" target="EGAF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="AHEB3" target="DRIT11">
+  <data key="d0">0.5386</data>
+</edge>
+<edge source="AHEB3" target="IGTI4">
+  <data key="d0">0.4106</data>
+</edge>
+<edge source="DCRA11" target="SPXS11">
+  <data key="d0">0.6803</data>
+</edge>
+<edge source="DTCY3" target="BTAG11">
+  <data key="d0">0.9946</data>
+</edge>
+<edge source="DTCY3" target="KOPA11">
+  <data key="d0">0.9935</data>
+</edge>
+<edge source="DTCY3" target="ZAVC11">
+  <data key="d0">0.6912</data>
+</edge>
+<edge source="FSPE11" target="CRAA11">
+  <data key="d0">0.5472</data>
+</edge>
+<edge source="VRTM11" target="HCST11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="BFCG39" target="ISAE3">
+  <data key="d0">0.9411</data>
+</edge>
+<edge source="BFCG39" target="TRXY11">
+  <data key="d0">0.5542</data>
+</edge>
+<edge source="BICL39" target="CEED3">
+  <data key="d0">0.5336</data>
+</edge>
+<edge source="BRFT11" target="RPAD5">
+  <data key="d0">0.6694</data>
+</edge>
+<edge source="CPLG11" target="FSTU11">
+  <data key="d0">0.741</data>
+</edge>
+<edge source="CRAA11" target="PEMA11">
+  <data key="d0">0.8743</data>
+</edge>
+<edge source="CRAA11" target="VSLH11">
+  <data key="d0">0.5383</data>
+</edge>
+<edge source="DOHL3" target="BLPX39">
+  <data key="d0">0.989</data>
+</edge>
+<edge source="DOHL3" target="BKCH39">
+  <data key="d0">0.8273</data>
+</edge>
+<edge source="EGAF11" target="SCAR3">
+  <data key="d0">0.5088</data>
+</edge>
+<edge source="IAGR11" target="HRDF11">
+  <data key="d0">0.4495</data>
+</edge>
+<edge source="IAGR11" target="PABY11">
+  <data key="d0">0.4326</data>
+</edge>
+<edge source="JGPX11" target="BIHI39">
+  <data key="d0">0.5751</data>
+</edge>
+<edge source="JGPX11" target="G2DI33">
+  <data key="d0">0.5407</data>
+</edge>
+<edge source="JGPX11" target="EDGA11">
+  <data key="d0">0.4164</data>
+</edge>
+<edge source="LSAG11" target="ENMT4">
+  <data key="d0">0.7463</data>
+</edge>
+<edge source="SEQL3" target="KNCA11">
+  <data key="d0">0.4442</data>
+</edge>
+<edge source="VGIA11" target="ZAVI11">
+  <data key="d0">0.6038</data>
+</edge>
+<edge source="VGIA11" target="CPTS11">
+  <data key="d0">0.5458</data>
+</edge>
+<edge source="VGIA11" target="IRIM11">
+  <data key="d0">0.4924</data>
+</edge>
+<edge source="VGIA11" target="VGIR11">
+  <data key="d0">0.4801</data>
+</edge>
+<edge source="VGIA11" target="PICE11">
+  <data key="d0">0.476</data>
+</edge>
+<edge source="VGIA11" target="RCSL4">
+  <data key="d0">0.4429</data>
+</edge>
+<edge source="AIEC11" target="VCRA11">
+  <data key="d0">0.4175</data>
+</edge>
+<edge source="KNCA11" target="RBVA11">
+  <data key="d0">0.6106</data>
+</edge>
+<edge source="KNCA11" target="LVBI11">
+  <data key="d0">0.5656</data>
+</edge>
+<edge source="KNCA11" target="XPIE11">
+  <data key="d0">0.5454</data>
+</edge>
+<edge source="KNCA11" target="KDIF11">
+  <data key="d0">0.515</data>
+</edge>
+<edge source="KNCA11" target="RPRI11">
+  <data key="d0">0.4888</data>
+</edge>
+<edge source="KNCA11" target="MCCI11">
+  <data key="d0">0.4574</data>
+</edge>
+<edge source="KNCA11" target="LUXM4">
+  <data key="d0">0.4436</data>
+</edge>
+<edge source="VCRA11" target="PATI3">
+  <data key="d0">0.8202</data>
+</edge>
+<edge source="VCRA11" target="VLID3">
+  <data key="d0">0.6896</data>
+</edge>
+<edge source="VCRA11" target="LIFE11">
+  <data key="d0">0.5923</data>
+</edge>
+<edge source="VCRA11" target="MFII11">
+  <data key="d0">0.5799</data>
+</edge>
+<edge source="VCRA11" target="BCIA11">
+  <data key="d0">0.4726</data>
+</edge>
+<edge source="VCRA11" target="NEWL11">
+  <data key="d0">0.4569</data>
+</edge>
+<edge source="VCRA11" target="KNHY11">
+  <data key="d0">0.4493</data>
+</edge>
+<edge source="AJFI11" target="HCST11">
+  <data key="d0">0.973</data>
+</edge>
+<edge source="CTKA3" target="MCEM11">
+  <data key="d0">0.8756</data>
+</edge>
+<edge source="CTKA3" target="COIN11">
+  <data key="d0">0.7742</data>
+</edge>
+<edge source="CTKA3" target="CTKA4">
+  <data key="d0">0.5663</data>
+</edge>
+<edge source="CTKA3" target="HGIC11">
+  <data key="d0">0.4272</data>
+</edge>
+<edge source="HCST11" target="ALZC11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="AMOB3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="ATED3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="BRAV3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="BTFL39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="BTHF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="CHIP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="COPN11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="EDFO11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="ETHA39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="FAMB11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="FIIP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="INRD11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="IRIF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="ISAE3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="JMBI11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="JSCR11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="KORE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="NUIF11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="RECM11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="SMRE11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="TOPP11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="ZAGH11">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="HCST11" target="TVRI11">
+  <data key="d0">0.9031</data>
+</edge>
+<edge source="HCST11" target="SJAU11">
+  <data key="d0">0.8159</data>
+</edge>
+<edge source="HCST11" target="EVTC31">
+  <data key="d0">0.7949</data>
+</edge>
+<edge source="HCST11" target="BFXI39">
+  <data key="d0">0.7625</data>
+</edge>
+<edge source="HCST11" target="DPRO11">
+  <data key="d0">0.6411</data>
+</edge>
+<edge source="HCST11" target="CLSC3">
+  <data key="d0">0.535</data>
+</edge>
+<edge source="HCST11" target="ARXD11">
+  <data key="d0">0.4281</data>
+</edge>
+<edge source="CEED3" target="BCIR39">
+  <data key="d0">0.9912</data>
+</edge>
+<edge source="KEPL3" target="XPSF11">
+  <data key="d0">0.6951</data>
+</edge>
+<edge source="TAEE11" target="TAEE4">
+  <data key="d0">0.722</data>
+</edge>
+<edge source="TAEE11" target="TAEE3">
+  <data key="d0">0.6305</data>
+</edge>
+<edge source="TAEE3" target="TAEE4">
+  <data key="d0">0.5138</data>
+</edge>
+<edge source="BIHI39" target="BIXN39">
+  <data key="d0">0.9645</data>
+</edge>
+<edge source="FIXX11" target="BHYG39">
+  <data key="d0">0.5049</data>
+</edge>
+<edge source="FIXX11" target="BLQD39">
+  <data key="d0">0.4795</data>
+</edge>
+<edge source="KOPA11" target="BTAL11">
+  <data key="d0">0.5318</data>
+</edge>
+<edge source="KOPA11" target="WHRL3">
+  <data key="d0">0.4928</data>
+</edge>
+<edge source="KOPA11" target="EALT4">
+  <data key="d0">0.4454</data>
+</edge>
+<edge source="KOPA11" target="CSMG3">
+  <data key="d0">0.4375</data>
+</edge>
+<edge source="KOPA11" target="NGRD3">
+  <data key="d0">0.4112</data>
+</edge>
+<edge source="AMOB3" target="VIFI11">
+  <data key="d0">0.4597</data>
+</edge>
+<edge source="RPAD3" target="NUTR3">
+  <data key="d0">0.7121</data>
+</edge>
+<edge source="RPAD6" target="RECM11">
+  <data key="d0">0.696</data>
+</edge>
+<edge source="RPAD6" target="ISAE3">
+  <data key="d0">0.5907</data>
+</edge>
+<edge source="RPAD6" target="EXES11">
+  <data key="d0">0.4775</data>
+</edge>
+<edge source="APXM11" target="PEAB4">
+  <data key="d0">0.4554</data>
+</edge>
+<edge source="DEXP3" target="DEXP4">
+  <data key="d0">0.8353</data>
+</edge>
+<edge source="PETR3" target="PETR4">
+  <data key="d0">0.9657</data>
+</edge>
+<edge source="AZEV3" target="AZEV4">
+  <data key="d0">0.6951</data>
+</edge>
+<edge source="AZPL11" target="FSTU11">
+  <data key="d0">0.9121</data>
+</edge>
+<edge source="AZPL11" target="WLMM3">
+  <data key="d0">0.579</data>
+</edge>
+<edge source="BMIN3" target="BCIR39">
+  <data key="d0">0.9922</data>
+</edge>
+<edge source="BMIN3" target="TJKB11">
+  <data key="d0">0.7461</data>
+</edge>
+<edge source="BMIN3" target="BMIN4">
+  <data key="d0">0.66</data>
+</edge>
+<edge source="SNFZ11" target="FPAB11">
+  <data key="d0">0.83</data>
+</edge>
+<edge source="SNFZ11" target="CJCT11">
+  <data key="d0">0.7542</data>
+</edge>
+<edge source="SNFZ11" target="VSHO11">
+  <data key="d0">0.5399</data>
+</edge>
+<edge source="SNFZ11" target="BRIM11">
+  <data key="d0">0.4852</data>
+</edge>
+<edge source="SNFZ11" target="DAMT11">
+  <data key="d0">0.4377</data>
+</edge>
+<edge source="SNFZ11" target="SNLG11">
+  <data key="d0">0.4214</data>
+</edge>
+<edge source="SNFZ11" target="PLAG11">
+  <data key="d0">0.4049</data>
+</edge>
+<edge source="WLMM3" target="BIEI39">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="WLMM3" target="RIFF11">
+  <data key="d0">0.9939</data>
+</edge>
+<edge source="WLMM3" target="ITRI11">
+  <data key="d0">0.6179</data>
+</edge>
+<edge source="WLMM3" target="KNUQ11">
+  <data key="d0">0.5452</data>
+</edge>
+<edge source="BRAP4" target="BRAP3">
+  <data key="d0">0.9081</data>
+</edge>
+<edge source="BRAP4" target="VALE3">
+  <data key="d0">0.7577</data>
+</edge>
+<edge source="BRKM3" target="BRKM5">
+  <data key="d0">0.7744</data>
+</edge>
+<edge source="CMIN3" target="USIM5">
+  <data key="d0">0.4993</data>
+</edge>
+<edge source="CMIN3" target="USIM3">
+  <data key="d0">0.4733</data>
+</edge>
+<edge source="FESA4" target="FESA3">
+  <data key="d0">0.7282</data>
+</edge>
+<edge source="RECV3" target="BRAV3">
+  <data key="d0">0.5282</data>
+</edge>
+<edge source="USIM3" target="USIM5">
+  <data key="d0">0.6523</data>
+</edge>
+<edge source="USIM3" target="GGBR4">
+  <data key="d0">0.457</data>
+</edge>
+<edge source="USIM5" target="GOAU4">
+  <data key="d0">0.6675</data>
+</edge>
+<edge source="USIM5" target="GGBR4">
+  <data key="d0">0.6486</data>
+</edge>
+<edge source="USIM5" target="GOAU3">
+  <data key="d0">0.6163</data>
+</edge>
+<edge source="VALE3" target="BRAP3">
+  <data key="d0">0.6631</data>
+</edge>
+<edge source="BCHI39" target="BFXI39">
+  <data key="d0">0.9048</data>
+</edge>
+<edge source="BAIQ39" target="BKCH39">
+  <data key="d0">0.9299</data>
+</edge>
+<edge source="BAIQ39" target="BCPX39">
+  <data key="d0">0.7892</data>
+</edge>
+<edge source="BAIQ39" target="BSIL39">
+  <data key="d0">0.7487</data>
+</edge>
+<edge source="BAIQ39" target="BURA39">
+  <data key="d0">0.7448</data>
+</edge>
+<edge source="BCPX39" target="BKCH39">
+  <data key="d0">0.869</data>
+</edge>
+<edge source="BCPX39" target="BSIL39">
+  <data key="d0">0.8094</data>
+</edge>
+<edge source="BCPX39" target="BURA39">
+  <data key="d0">0.7347</data>
+</edge>
+<edge source="BCPX39" target="GOAU4">
+  <data key="d0">0.5809</data>
+</edge>
+<edge source="BCPX39" target="GOAU3">
+  <data key="d0">0.5721</data>
+</edge>
+<edge source="BKCH39" target="BURA39">
+  <data key="d0">0.8678</data>
+</edge>
+<edge source="BKCH39" target="BSIL39">
+  <data key="d0">0.8323</data>
+</edge>
+<edge source="BKCH39" target="GOAU3">
+  <data key="d0">0.7334</data>
+</edge>
+<edge source="BKCH39" target="GOAU4">
+  <data key="d0">0.7331</data>
+</edge>
+<edge source="BRSR5" target="WTSP11">
+  <data key="d0">0.7531</data>
+</edge>
+<edge source="BRSR5" target="BRSR3">
+  <data key="d0">0.5681</data>
+</edge>
+<edge source="BSIL39" target="GOAU4">
+  <data key="d0">0.4539</data>
+</edge>
+<edge source="GOAU3" target="GOAU4">
+  <data key="d0">0.8857</data>
+</edge>
+<edge source="GOAU3" target="GGBR4">
+  <data key="d0">0.7781</data>
+</edge>
+<edge source="GOAU3" target="GGBR3">
+  <data key="d0">0.7421</data>
+</edge>
+<edge source="GOAU4" target="GGBR4">
+  <data key="d0">0.8804</data>
+</edge>
+<edge source="GOAU4" target="GGBR3">
+  <data key="d0">0.7977</data>
+</edge>
+<edge source="BTAG11" target="CEOC11">
+  <data key="d0">0.48</data>
+</edge>
+<edge source="CPTR11" target="EUCA3">
+  <data key="d0">0.5359</data>
+</edge>
+<edge source="CPTR11" target="JFLL11">
+  <data key="d0">0.5304</data>
+</edge>
+<edge source="GCRA11" target="TRAD3">
+  <data key="d0">0.4592</data>
+</edge>
+<edge source="GRWA11" target="KIVO11">
+  <data key="d0">0.4303</data>
+</edge>
+<edge source="SAPI11" target="SADI11">
+  <data key="d0">0.9934</data>
+</edge>
+<edge source="SAPI11" target="SARE11">
+  <data key="d0">0.9856</data>
+</edge>
+<edge source="BARI11" target="HABT11">
+  <data key="d0">0.4583</data>
+</edge>
+<edge source="BARI11" target="MFII11">
+  <data key="d0">0.4299</data>
+</edge>
+<edge source="GARE11" target="TRXF11">
+  <data key="d0">0.4418</data>
+</edge>
+<edge source="HABT11" target="MFII11">
+  <data key="d0">0.4874</data>
+</edge>
+<edge source="OIAG11" target="ERPA11">
+  <data key="d0">0.6809</data>
+</edge>
+<edge source="OIAG11" target="UNIP5">
+  <data key="d0">0.6285</data>
+</edge>
+<edge source="OIAG11" target="RECT11">
+  <data key="d0">0.4043</data>
+</edge>
+<edge source="GGBR4" target="GGBR3">
+  <data key="d0">0.8842</data>
+</edge>
+<edge source="BBFI11" target="JOPA3">
+  <data key="d0">0.6549</data>
+</edge>
+<edge source="JOPA3" target="QSOL11">
+  <data key="d0">0.8159</data>
+</edge>
+<edge source="JOPA3" target="PINE3">
+  <data key="d0">0.7949</data>
+</edge>
+<edge source="PLCR11" target="VISC11">
+  <data key="d0">0.5198</data>
+</edge>
+<edge source="POMO3" target="POMO4">
+  <data key="d0">0.7866</data>
+</edge>
+<edge source="BCIR39" target="FRIO3">
+  <data key="d0">0.8493</data>
+</edge>
+<edge source="ETHA39" target="ETHE11">
+  <data key="d0">0.9109</data>
+</edge>
+<edge source="ETHA39" target="QETH11">
+  <data key="d0">0.8935</data>
+</edge>
+<edge source="ETHA39" target="QDFI11">
+  <data key="d0">0.7338</data>
+</edge>
+<edge source="ETHA39" target="SOLH11">
+  <data key="d0">0.7263</data>
+</edge>
+<edge source="ETHA39" target="QSOL11">
+  <data key="d0">0.7043</data>
+</edge>
+<edge source="ETHA39" target="BLOK11">
+  <data key="d0">0.6265</data>
+</edge>
+<edge source="TASA4" target="TASA3">
+  <data key="d0">0.8322</data>
+</edge>
+<edge source="UNIP6" target="UNIP5">
+  <data key="d0">0.8936</data>
+</edge>
+<edge source="UNIP6" target="UNIP3">
+  <data key="d0">0.6775</data>
+</edge>
+<edge source="BITH11" target="HASH11">
+  <data key="d0">0.9121</data>
+</edge>
+<edge source="BITH11" target="QBTC11">
+  <data key="d0">0.9054</data>
+</edge>
+<edge source="BLPA39" target="BLPX39">
+  <data key="d0">0.915</data>
+</edge>
+<edge source="BLPA39" target="BIYE39">
+  <data key="d0">0.5029</data>
+</edge>
+<edge source="BLQD39" target="BHYG39">
+  <data key="d0">0.5158</data>
+</edge>
+<edge source="COIN11" target="IBIT39">
+  <data key="d0">0.8816</data>
+</edge>
+<edge source="COIN11" target="BITI11">
+  <data key="d0">0.8017</data>
+</edge>
+<edge source="ETHE11" target="QETH11">
+  <data key="d0">0.9236</data>
+</edge>
+<edge source="ETHE11" target="SOLH11">
+  <data key="d0">0.7504</data>
+</edge>
+<edge source="ETHE11" target="QSOL11">
+  <data key="d0">0.7391</data>
+</edge>
+<edge source="ETHE11" target="QDFI11">
+  <data key="d0">0.6803</data>
+</edge>
+<edge source="ETHE11" target="BLOK11">
+  <data key="d0">0.6317</data>
+</edge>
+<edge source="HASH11" target="QBTC11">
+  <data key="d0">0.9098</data>
+</edge>
+<edge source="HASH11" target="DEFI11">
+  <data key="d0">0.6694</data>
+</edge>
+<edge source="HASH11" target="WEB311">
+  <data key="d0">0.6572</data>
+</edge>
+<edge source="HASH11" target="META11">
+  <data key="d0">0.5375</data>
+</edge>
+<edge source="VILG11" target="HGRE11">
+  <data key="d0">0.4628</data>
+</edge>
+<edge source="VISC11" target="XPML11">
+  <data key="d0">0.5807</data>
+</edge>
+<edge source="VISC11" target="HGFF11">
+  <data key="d0">0.4851</data>
+</edge>
+<edge source="VISC11" target="BRCO11">
+  <data key="d0">0.4331</data>
+</edge>
+<edge source="BTFL39" target="BSHY39">
+  <data key="d0">0.6945</data>
+</edge>
+<edge source="BLPX39" target="BIYE39">
+  <data key="d0">0.5659</data>
+</edge>
+<edge source="QETH11" target="QSOL11">
+  <data key="d0">0.7318</data>
+</edge>
+<edge source="QETH11" target="QDFI11">
+  <data key="d0">0.6822</data>
+</edge>
+<edge source="IBIT39" target="BITI11">
+  <data key="d0">0.8086</data>
+</edge>
+<edge source="QSOL11" target="SOLH11">
+  <data key="d0">0.9378</data>
+</edge>
+<edge source="SOLH11" target="BLOK11">
+  <data key="d0">0.6072</data>
+</edge>
+<edge source="TKNO4" target="BSHY39">
+  <data key="d0">0.4759</data>
+</edge>
+<edge source="BEES3" target="BEES4">
+  <data key="d0">0.7932</data>
+</edge>
+<edge source="BRAV3" target="PRIO3">
+  <data key="d0">0.5562</data>
+</edge>
+<edge source="ERPA11" target="RCSL4">
+  <data key="d0">0.4012</data>
+</edge>
+<edge source="DEFI11" target="WEB311">
+  <data key="d0">0.6398</data>
+</edge>
+<edge source="DEFI11" target="META11">
+  <data key="d0">0.5317</data>
+</edge>
+<edge source="QBTC11" target="WEB311">
+  <data key="d0">0.6124</data>
+</edge>
+<edge source="BSLI3" target="BSLI4">
+  <data key="d0">0.7224</data>
+</edge>
+<edge source="BSLI4" target="TXRX4">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX4" target="CEBR3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX4" target="PCAR3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX4" target="PTNT3">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="TXRX4" target="CLSC3">
+  <data key="d0">0.6963</data>
+</edge>
+<edge source="BTLG11" target="XPML11">
+  <data key="d0">0.4944</data>
+</edge>
+<edge source="BTLG11" target="HGRU11">
+  <data key="d0">0.4285</data>
+</edge>
+<edge source="HGRU11" target="XPML11">
+  <data key="d0">0.4622</data>
+</edge>
+<edge source="KLBN3" target="SUZB3">
+  <data key="d0">0.5086</data>
+</edge>
+<edge source="CEBR3" target="CEBR5">
+  <data key="d0">0.8845</data>
+</edge>
+<edge source="CEBR3" target="CEBR6">
+  <data key="d0">0.8515</data>
+</edge>
+<edge source="CEBR5" target="CEBR6">
+  <data key="d0">0.8943</data>
+</edge>
+<edge source="CGRA3" target="CGRA4">
+  <data key="d0">0.4064</data>
+</edge>
+<edge source="CPFF11" target="HGFF11">
+  <data key="d0">0.4393</data>
+</edge>
+<edge source="CPFF11" target="KFOF11">
+  <data key="d0">0.4126</data>
+</edge>
+<edge source="HGFF11" target="KFOF11">
+  <data key="d0">0.418</data>
+</edge>
+<edge source="DEVA11" target="HCTR11">
+  <data key="d0">0.552</data>
+</edge>
+<edge source="DVFF11" target="DPRO11">
+  <data key="d0">0.9333</data>
+</edge>
+<edge source="HCTR11" target="FCFL11">
+  <data key="d0">0.9301</data>
+</edge>
+<edge source="UNIP5" target="UNIP3">
+  <data key="d0">0.615</data>
+</edge>
+<edge source="SNID11" target="WSEC11">
+  <data key="d0">0.8837</data>
+</edge>
+<edge source="RCSL4" target="RCSL3">
+  <data key="d0">0.7781</data>
+</edge>
+<edge source="HGBS11" target="HLOG11">
+  <data key="d0">0.9792</data>
+</edge>
+<edge source="TELB3" target="TELB4">
+  <data key="d0">0.5667</data>
+</edge>
+<edge source="WHRL3" target="WHRL4">
+  <data key="d0">0.4585</data>
+</edge>
+<edge source="SADI11" target="SARE11">
+  <data key="d0">0.9645</data>
+</edge>
+</graph></graphml>
